@@ -1,0 +1,9 @@
+<table style="width:100%">
+  {% for post in site.posts %}
+<tr>
+<td class="blog-title blog-title-column"><a href="{{ post.url }}">{{ post.title }}</a></td>
+<td class="blog-info blog-info-column">{{ post.info-cat }}</td>
+<td class="blog-date blog-date-column">{{ post.date | date: "%d.%m.%y" }}</td>
+</tr>
+  {% endfor %}
+</table>
