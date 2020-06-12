@@ -5,7 +5,7 @@ date:   2016-01-16
 permalink: /post/bokehlicious/
 categories: Photography
 
-excerpt:	What's not to love in those swirly out of focus bubbles?
+excerpt:	What's not to love in those swirly out of focus bubbles?!
 info-place:	Madrid, Spain
 img-name:	bokehlicious
 ---
