@@ -6,7 +6,7 @@ excerpt: Improving my writing skills, word by word.
 ---
 
 <ul class="categorias">
-{% for category in site.categories %}
+{% for category in site.categories reversed %}
   <li><h1><a class="{{ category | first }}" name="{{ category | first }}" id="#{{ page.categories }}">{{ category | first }}</a></h1>
     <ul class="categorias">
     {% for post in category.last %}
