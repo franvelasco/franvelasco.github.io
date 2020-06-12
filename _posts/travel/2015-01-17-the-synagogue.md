@@ -3,7 +3,7 @@ layout:		post
 title:		The Synagogue
 date:		2015-01-17
 permalink: 	/post/the-synagogue/
-categories:	Photography
+categories:	Travel
 
 excerpt: 	A beauty built eight hundred years ago.
 info-place: Toledo, Spain

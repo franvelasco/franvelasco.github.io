@@ -5,12 +5,12 @@ date:   2016-01-16
 permalink: /post/bokehlicious/
 categories: Photography
 
-excerpt:	What's not to love in those swirly out of focus bubbles?!
+excerpt:	What's not to love in those swirly out of focus bubbles?
 info-place:	Madrid, Spain
 img-name:	bokehlicious
 ---
 
-This is what happens when you use a Helios 44M-6 58mm ƒ2 in a Fuji with an speed booster. *Swirly bokeh everywhere!* I'm so glad I found this little gem in a flea market in Naples. It is not the sharpest or cleanest lens, but it is a very fun one to use, that's for sure.
+This is what happens when you use a Helios 44M-6 58mm ƒ2 in a Fuji with an speed booster. *Swirly bokeh everywhere!* I'm so glad I found this little gem in a flea market in Naples where I paid 10 euros to get it with an old Zenit camera. It is not the sharpest or cleanest lens, but it is a very fun one to use, that's for sure. 
 
 <div class="gallery" markdown="1">
 

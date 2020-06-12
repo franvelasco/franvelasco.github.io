@@ -10,9 +10,9 @@ info-place: Madrid, Spain
 img-name:	fifthmills
 ---
 
-There is nothing better than taking advantage of the holidays to leave home, even if it is to walk around the neighborhood and discover places that you did not know before. This is one of the reasons why we love Madrid: there is always something new to do or know.
+There is nothing better than taking advantage of the holidays to leave home, even if it is to walk around the neighborhood and discover places that you did not know before. This is one of the reasons why everyone loves Madrid: there is always something new to do or know.
 
-Loaded with my faithful camera and the 50mm we walked to the Quinta de los Molinos Park thinking that I could finally take some photos of its famous cherry trees. Bad luck because apparently these trees are not in bloom for long. Still, as I was determined to bring a few photos with me, I took them anyway.
+Loaded with my faithful camera and the 50mm we walked to the Fifth of the Mills –Quinta de los Molinos in Spanish– thinking that I could finally take some photos of its famous cherry trees. Bad luck because apparently these trees are not in bloom for long. Still, as I was determined to bring a few photos with me, I took them anyway.
 
 <div class="gallery" markdown="1">
 

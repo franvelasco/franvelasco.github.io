@@ -2,19 +2,24 @@
 layout: page-light
 title: Colophon
 permalink: /colophon/
-
 excerpt: Technical info
 ---
 
-# This is a work in progress.
+# This is a work in progress. Updating.................
+
+I've been coding HTML and CSS for fun since the days of Myspace and the free .tk domains. That means I'm no true professional altough I can do a little more beyond basic stuff. 
+
+Trying to get away from the slow and file-crammed Wordpress installations, I stumbled upon Jekyll, a SSG or Static Site Generator. It ticks all my needs for my basic sites, including the database-less-ness! 
+
+So here I am, trying to understand all of its posibilities to create a page where I can *own* my voice, my words and many of my photographs.
 
 <br>
 
 ### Technology
 
-All code was created on June 2020 using [Jekyll](https://jekyllrb.com/){:target="_blank"}.
+This site is written in HTML + CSS and delivered using [Jekyll](https://jekyllrb.com/){:target="_blank"}, a Static Site Generator. No JavaScript, PHP or any other language is used.
 
-I wrote most of the code from scratch in Markdown using [Sublime Text](https://www.sublimetext.com/){:target="_blank"} from scratch by the old trial and error method. 
+I wrote most of the code from scratch in Markdown using the old trial and error method on [Sublime Text](https://www.sublimetext.com/){:target="_blank"}. 
 
 The files are hosted on [Namecheap](https://namecheap.com){:target="_blank"}.
 
@@ -22,9 +27,9 @@ The files are hosted on [Namecheap](https://namecheap.com){:target="_blank"}.
 
 ### Typography
 
-Header texts use a self-hosted version of [Inter](https://rsms.me/inter/){:target="_blank"}, created by [Rasmus Anderson](https://rsms.me/about/){:target="_blank"}.
+Header texts use [Inter](https://rsms.me/inter/){:target="_blank"}, created by [Rasmus Anderson](https://rsms.me/about/){:target="_blank"}; and body text as this one is [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville){:target="_blank"}, created by [Impalliari](http://www.impallari.com/projects/overview/libre-baskerville){:target="_blank"}.
 
-Body text as this one is [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville){:target="_blank"}, created by [Impalliari](http://www.impallari.com/projects/overview/libre-baskerville){:target="_blank"}, served and hosted by [Google Fonts](https://fonts.google.com/specimen/Libre+Baskerville){:target="_blank"}.
+[Both](https://fonts.google.com/specimen/Inter){:target="_blank"} [fonts](https://fonts.google.com/specimen/Libre+Baskerville){:target="_blank"} served and hosted by [Google Fonts](https://fonts.google.com/specimen/Libre+Baskerville){:target="_blank"}.
 
 <br>
 

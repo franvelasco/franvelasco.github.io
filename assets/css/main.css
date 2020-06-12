@@ -3,13 +3,16 @@
 
 :root {
   --c-bg: #182022;
+  --c-bgfade: #ffffff07;
   --c-text: white;
   --c-detail: #cff;
   --c-hr: #ffffff20;
   --c-catpost: #ffffff40;
   --f-text: "Libre Baskerville";
   --f-header: "Inter";
-  --c-music: #ffb1b1;
+  --c-gallery: #ffb1b1;
+  --c-travel: #ffc6ef;
+  --c-music: #ffedae;
   --c-photo: #adf5ca;
   --c-culture: #98cfff;
 }
@@ -28,15 +31,22 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   transition:all 0.25s linear;
+  font-weight: 400;
 }
 
-h1 {font-size: 22px; font-weight: 400;}
-h2 {font-size: 18px; font-weight: 400; opacity: .6}
-h3 {font-size: 18px; font-weight: 400; opacity: .3}
 
-p {font-family: var(--f-text) ;font-size: 18px; font-weight: 400; max-width: 700px; line-height: 1.75}
+/* —————————————— Typography —————————————— */
 
-.big-text {font-size: 30px; max-width: 700px; }
+.big-text {font-size: 30px; line-height: 1.3}
+
+h1 {font-size: 22px}
+h2 {font-size: 18px; opacity: .6}
+h3 {font-size: 18px; opacity: .3}
+h6 {font-size: 14px; opacity: .4}
+
+p {font-family: var(--f-text) ;font-size: 18px; line-height: 1.75}
+
+h1, h2, h3, h6, p, .big-text {max-width: 700px}
 
 a {
   text-decoration: none;
@@ -58,16 +68,21 @@ p em, p i {
   font-style: italic;
 }
 
+blockquote h1 {
+  margin-left: -100px;
+  font-size: 30px;
+  max-width: 600px;
+  line-height: 1.2;
+}
+
 hr {
   border: 1px solid;
   border-color: var(--c-hr)
 }
 
-.separator-bottom {
-  margin-bottom: 120px;
-}
 
-/* Header */
+/* —————————————— Header —————————————— */
+
 header {
   padding: 20px 0 130px 0;
 }
@@ -75,7 +90,9 @@ header {
   height: 45px;
 }
 
-/* Blog */
+
+/* —————————————— Blog —————————————— */
+
 .blog-info {
 }
 .blog-title {
@@ -92,7 +109,9 @@ header {
   min-width: fit-content;
 }
 
-/* Categorías */
+
+/* —————————————— Categorías —————————————— */
+
 .categorias {
   max-width: 700px;
   padding: 0;
@@ -109,14 +128,21 @@ header {
   font-size: 80%;
   opacity: .3;
 }
+.categoria-info {
+  float: right;
+  opacity: .6;
+}
 
-/* wrapper.html grid */
+
+/* —————————————— wrapper.html grid —————————————— */
+
 .grid-container {
 display: grid; 
 grid-template-columns: repeat(12, 1fr); 
 grid-template-rows: 1fr; 
 grid-column-gap: 10px;
 grid-row-gap: 10px; 
+padding-bottom: 120px;
 }
 .left {grid-area: 1 / 1 / 2 / 5}
 .right {grid-area: 1 / 6 / 2 / 13}
@@ -128,7 +154,8 @@ grid-row-gap: 10px;
   margin: 0 0 25px 0;
 }
 
-/* Footer */
+
+/* —————————————— Footer —————————————— */
 
 .footer {
   padding-top: 120px;
@@ -164,6 +191,15 @@ footer ul {
   font-size: 65%;
   color: var(--c-photo);
 }
+.Travel {
+  color: var(--c-travel);
+}
+.Travel-fx:hover::after {
+  content: ' Travel';
+  font-size: 65%;
+  color: var(--c-travel);
+  vertical-align: 1px;
+}
 .Culture {
   color: var(--c-culture);
 }
@@ -173,12 +209,32 @@ footer ul {
   color: var(--c-culture);
   vertical-align: 1px;
 }
+.Music {
+  color: var(--c-music);
+}
+.Music-fx:hover::after {
+  content: ' Music';
+  font-size: 65%;
+  color: var(--c-music);
+  vertical-align: 1px;
+}
+.Gallery {
+  color: var(--c-gallery);
+}
+.Gallery-fx:hover::after {
+  content: ' Gallery';
+  font-size: 65%;
+  color: var(--c-gallery);
+  vertical-align: 1px;
+}
 .blog-title-column h1,
 .blog-title-column td {
   padding: 0px;
 }
 
-/* Post images */
+
+/* —————————————— Post images —————————————— */
+
 .gallery {
   width: 100%;
 }
@@ -198,7 +254,41 @@ p img {
 }
 
 
-/* Media quieries */
+/* —————————————— Post Contact —————————————— */
+
+.post-contact {
+  margin-bottom: 120px;
+}
+.post-contact p {
+  font-style: italic;
+}
+
+
+/* —————————————— Post Navigation —————————————— */
+
+.post-navigation a {
+  width: 50%;
+  float: left;
+}
+.post-navigation .next {
+  text-align: right;
+}
+
+
+/* —————————————— Gallery —————————————— */
+
+.gallery-full p, .gallery-full img {
+  max-width: 100%;
+}
+.gallery-full .img-1-2 {
+ width: calc(50% - 16px);
+ float: left;
+ padding-bottom: 16px;
+}
+
+
+/* —————————————— Media quieries —————————————— */
+
 @media (max-width: 1024px) {
  .body {max-width: 600px !important}
  .grid-container {grid-template-columns: 1fr; grid-template-rows: 1fr;}
@@ -213,5 +303,7 @@ h3, p {font-size: 14px}
 .big-text {font-size: 20px; }
 footer ul {font-size: 14px;}
 .left, .right p {max-width: 450px}
-
+.gallery-full .img-1-2, .img-1-2, .img-2-2 {width:100%}
 }
+
+

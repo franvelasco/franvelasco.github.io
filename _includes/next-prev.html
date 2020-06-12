@@ -1,0 +1,23 @@
+<div class="grid-container ">
+  
+  <div class="right">
+	
+  <!--
+	<div class="post-contact">
+		<h3>If you have any comment or question about design, photography, music, prints, collaborations, sessions, comics or anything else that comes to mind, please send me an email at:</h3>
+  		<h1><a href="mailto:hola@franvelas.co">hola@franvelas.co</a></h1>
+  	</div>
+  -->
+
+	<div class="post-navigation">
+	  {% if page.previous.url %}
+	    <a class="prev" href="{{page.previous.url}}"><- {{page.previous.title}}</a>
+	  {% endif %}
+	  {% if page.next.url %}
+	    <a class="next" href="{{page.next.url}}">{{page.next.title}} -></a>
+	  {% endif %}
+	</div>
+
+  </div>
+
+</div>
