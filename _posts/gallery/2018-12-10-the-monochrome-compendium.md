@@ -1,16 +1,17 @@
 ---
-layout:		gallery
+layout:		photoessay
 title:		The Monochrome Compendium
 date:		2018-12-10
 permalink: 	/gallery/the-monochrome-compendium/
-categories:	Gallery
+categories:	Photoessay
 
 excerpt: 	A monochromatic series of everyday life.
 info-place: Everywhere
+info-date:	From 2007 to 2020
 img-name:	galtmc
 ---
 
-<div class="gallery-full" markdown="1">
+<div class="gallery-essay" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)

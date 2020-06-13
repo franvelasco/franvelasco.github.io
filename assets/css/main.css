@@ -14,6 +14,7 @@
   --c-travel: #ffc6ef;
   --c-music: #ffedae;
   --c-photo: #adf5ca;
+  --c-photoessay: #f6bfa6;
   --c-culture: #98cfff;
 }
 
@@ -187,9 +188,17 @@ footer ul {
   color: var(--c-photo);
 }
 .Photography-fx:hover::after {
-  content: ' Photography';
+  content: ' Photo';
   font-size: 65%;
   color: var(--c-photo);
+}
+.Photoessay {
+  color: var(--c-photoessay);
+}
+.Photoessay-fx:hover::after {
+  content: ' Photoessay';
+  font-size: 65%;
+  color: var(--c-photoessay);
 }
 .Travel {
   color: var(--c-travel);
@@ -233,27 +242,6 @@ footer ul {
 }
 
 
-/* —————————————— Post images —————————————— */
-
-.gallery {
-  width: 100%;
-}
-p img {
-  width: 100%;
-  margin-bottom: 16px;
-}
-.img-1-2 {
- width: calc(50% - 16px);
- float: left;
- padding-bottom: 16px;
-}
-.img-2-2 {
- width: calc(50% - 16px);
- float: right;
- padding-bottom: 16px;
-}
-
-
 /* —————————————— Post Contact —————————————— */
 
 .post-contact {
@@ -275,9 +263,27 @@ p img {
 }
 
 
-/* —————————————— Gallery —————————————— */
+/* —————————————— Galleries —————————————— */
 
+.gallery {
+  width: 100%;
+}
+p img {
+  width: 100%;
+  margin-bottom: 16px;
+}
+.img-1-2 {
+ width: calc(50% - 16px);
+ float: left;
+ padding-bottom: 16px;
+}
+.img-2-2 {
+ width: calc(50% - 16px);
+ float: right;
+ padding-bottom: 16px;
+}
 .gallery-full p, .gallery-full img {
+  margin-bottom: 5vw;
   max-width: 100%;
 }
 .gallery-full .img-1-2 {
@@ -285,7 +291,25 @@ p img {
  float: left;
  padding-bottom: 16px;
 }
-
+.essay-title p {
+  font-size: 50px;
+  line-height: 1;
+  font-style: italic;
+  margin-bottom: 3vw;
+}
+.essay-title h1 {
+  opacity: .6;
+}
+.gallery-essay p {
+  margin-bottom: 20vw;
+  max-width: 100%;
+}
+.gallery-essay img {
+  background: white;
+  padding: 7.5vw;
+  max-width: 75vw;
+  margin: 5vw auto;
+}
 
 /* —————————————— Media quieries —————————————— */
 
@@ -304,6 +328,6 @@ h3, p {font-size: 14px}
 footer ul {font-size: 14px;}
 .left, .right p {max-width: 450px}
 .gallery-full .img-1-2, .img-1-2, .img-2-2 {width:100%}
+.gallery-essay img {padding: 5vw; max-width: 80vw; margin: 5vw auto;}
+.essay-title p {font-size: 28px;}
 }
-
-

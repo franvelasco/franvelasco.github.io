@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+	<link rel="stylesheet" href="{{ '/assets/css/light.css' | relative_url }}" />
+  </head>
+  <body style="background-color: #f3f3f5">
+    {% include header.html %}
+    <span class="essay-title"><p>{{ page.title }}</p>
+    <h1>{{ page.excerpt}}</h1></span><br>
+    {{ page.info-date  }}<br>
+    {{ page.info-place }}<br><br>
+  	<span><a href="{{site.url}}/journal#{{ page.categories }}" class="{{ page.categories }}">{{ page.categories }}</a></span>
+  	<br><br><br><br>{{ content }}
+    {% include next-prev.html %}
+    {% include footer.html %}
+  </body>
+</html>
