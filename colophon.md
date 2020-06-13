@@ -21,7 +21,7 @@ This site is written in HTML + CSS and delivered using [Jekyll](https://jekyllrb
 
 I wrote most of the code from scratch in Markdown using the old trial and error method on [Sublime Text](https://www.sublimetext.com/){:target="_blank"}. 
 
-The files are hosted on [Namecheap](https://namecheap.com){:target="_blank"}.
+The files are hosted on [Github](https://github.com/franvelasco/franvelasco.github.io){:target="_blank"}.
 
 <br>
 
