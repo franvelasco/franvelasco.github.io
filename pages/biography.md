@@ -2,7 +2,7 @@
 layout: page-light
 title: Biography
 permalink: /biography/
-excerpt: (Almost) everything about me
+excerpt: (Almost) everything about me.
 ---
 
 # This is a work in progress, so come back soon as I'll be adding words as days go by.
