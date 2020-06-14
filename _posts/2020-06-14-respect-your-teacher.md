@@ -2,7 +2,7 @@
 layout: post
 title:  Respect your teacher
 date:   2020-06-14
-permalink: /:category/respect-your-teacher/
+permalink: /post/respect-your-teacher/
 categories: General
 
 excerpt:	Everything you know has been taught to you.
