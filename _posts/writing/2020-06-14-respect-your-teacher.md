@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Respect your teacher
+title:  Respect your teacher because respect
 date:   2020-06-14
 permalink: /post/respect-your-teacher/
-categories: General
+categories: Writing
 
 excerpt:	Everything you know has been taught to you.
 info-place:	Madrid, Spain
@@ -11,6 +11,14 @@ img-name:	teacher
 ---
 
 Yesterday I saw my wife teaching a history class. It was the first time I saw her interacting with the students and I felt amazed to the point I was 15 again just to acknowledge my teachers everything they taught me. Also I’d try to be even more respectful for them and their professions, because they are, even without noticing it, life shapers for a lot of people. 
-If you learnt anything, someone has taught you somehow, so please respect your teachers. This pandemic is hard for everyone, and they have one of the jobs that cannot and should not stop.
 
-So this one’s for all the teachers out there. #RespectYourTeacher
+If you learnt anything, someone has taught you somehow, so please respect your teachers. This pandemic is hard for everyone, and they have one of the jobs that cannot and should not stop. So this one’s for all the teachers out there. 
+
+<div class="gallery" markdown="1">
+
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)
+
+</div>
+
+Please, *#RespectYourTeacher*.

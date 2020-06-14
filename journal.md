@@ -12,7 +12,7 @@ excerpt: Improving my writing skills, word by word.
     {% for post in category.last %}
       <li class="categoria-post"><a href="{{ post.url }}">{{ post.title }} <span class="categoria-post-date">{{ post.date | date_to_string }}</span></a></li>
     {% endfor %}
-    </ul><br><br><br><br><br>
+    </ul><br><br><br>
   </li>
 {% endfor %}
 </ul>
