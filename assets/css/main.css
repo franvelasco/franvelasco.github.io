@@ -6,7 +6,6 @@
   --c-bgfade: #ffffff07;
   --c-text: white;
   --c-detail: #cff;
-  --c-hr: #ffffff20;
   --c-catpost: #ffffff40;
   --f-text: "Libre Baskerville";
   --f-header: "Inter";
@@ -78,8 +77,9 @@ blockquote h1 {
 }
 
 hr {
-  border-color: var(--c-hr);
+  border-color: var(--c-text);
   border: 1px solid;
+  opacity: .15;
 }
 
 
@@ -93,10 +93,8 @@ header {
 }
 
 
-/* —————————————— Blog —————————————— */
+/* —————————————— Blog —————————————— 
 
-.blog-info {
-}
 .blog-title {
  font-size: 24px;
 }
@@ -106,10 +104,7 @@ header {
 .blog-title-column {
  width:66.6666%;
 }
-.gallery p {
-  padding: 50px 0;
-  min-width: fit-content;
-}
+*/
 
 
 /* —————————————— Categorías —————————————— */
@@ -133,6 +128,7 @@ header {
 .categoria-info {
   float: right;
   opacity: .6;
+  display: flex;
 }
 .categorias li h1 {
   padding-bottom: 0;
@@ -266,6 +262,7 @@ footer ul li {
 .post-navigation a {
   width: 50%;
   float: left;
+  font-size: 14px;
 }
 .post-navigation .next {
   text-align: right;
@@ -276,6 +273,10 @@ footer ul li {
 
 .gallery {
   width: 100%;
+}
+.gallery p {
+  padding: 50px 0;
+  min-width: fit-content;
 }
 p img {
   width: 100%;
@@ -333,11 +334,13 @@ p img {
 .logo {height: 35px}
 h1 {font-size: 20px}
 h2 {font-size: 16px}
-h3, p {font-size: 14px}
+h3, p, .categoria-post {font-size: 14px}
 .big-text {font-size: 20px; }
 footer ul {font-size: 14px;}
 .left, .right p {max-width: 450px}
+.post-navigation a {font-size: 12px}
 .gallery-full .img-1-2, .img-1-2, .img-2-2 {width:100%}
 .gallery-essay img {padding: 5vw; max-width: 80vw; margin: 5vw auto;}
 .essay-title p {font-size: 28px;}
+.categoria-info {float: none; display: block;}
 }
