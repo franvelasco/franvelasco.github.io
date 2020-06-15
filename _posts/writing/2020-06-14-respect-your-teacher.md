@@ -12,7 +12,7 @@ img-name:	teacher
 
 Yesterday I saw my wife teaching a history class. It was the first time I saw her interacting with the students and I felt amazed to the point I was 15 again just to acknowledge my teachers everything they taught me. Also I’d try to be even more respectful for them and their professions, because they are, even without noticing it, life shapers for a lot of people. 
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 	
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 
@@ -20,7 +20,7 @@ Yesterday I saw my wife teaching a history class. It was the first time I saw he
 
 If you learnt anything, someone has taught you somehow, so please respect your teachers. This pandemic is hard for everyone, and they have one of the jobs that cannot and should not stop. So this one’s for all the teachers out there. 
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)
 

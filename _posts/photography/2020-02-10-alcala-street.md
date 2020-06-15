@@ -16,7 +16,7 @@ Fortunately, besides my own insurance coverage, Apple will take care of the repa
 
 Taking advantage of the wonderful February afternoon, Max in his stroller and I walked all the way up Alcalá Street to home, while still surprising us with the beautiful architecture of one of the longest streets in Madrid. I can now cross *"Walk From Downtown To Home"* off my to-do list. Next time we will walk the other way around.
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)

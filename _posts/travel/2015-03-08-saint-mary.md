@@ -16,18 +16,18 @@ What I can assure you is that the best thing about visiting places like this is 
 
 Until then, I can only show you the photos here so you can feel through my eyes what I feel in our trips through the nearest and known universe.
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}07.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}03.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}04.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}11.jpg){:class="img-1-2"}
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}12.jpg){:class="img-2-2"}
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}11.jpg){:class="vertical"}
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}12.jpg){:class="vertical"}
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}05.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}06.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg){:class="img-1-2"}
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}08.jpg){:class="img-2-2"}
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg){:class="vertical"}
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}08.jpg){:class="vertical"}
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}09.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}10.jpg)
 

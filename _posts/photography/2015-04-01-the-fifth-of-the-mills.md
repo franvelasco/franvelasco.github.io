@@ -14,7 +14,7 @@ There is nothing better than taking advantage of the holidays to leave home, eve
 
 Loaded with my faithful camera and the 50mm we walked to the Fifth of the Mills –Quinta de los Molinos in Spanish– thinking that I could finally take some photos of its famous cherry trees. Bad luck because apparently these trees are not in bloom for long. Still, as I was determined to bring a few photos with me, I took them anyway.
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)

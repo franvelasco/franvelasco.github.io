@@ -16,7 +16,7 @@ My wife and I started to travel as much as we could the very first year we lived
 
 For now, we'll have to wait to travel again, but we never stopped planning that big journey we'll be getting into whenever possible.
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)

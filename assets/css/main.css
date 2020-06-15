@@ -109,7 +109,7 @@ header {
 */
 
 
-/* —————————————— Categorías —————————————— */
+/* —————————————— Categories —————————————— */
 
 .category {
   list-style-type: none;
@@ -137,7 +137,7 @@ header {
 }
 
 
-/* —————————————— wrapper.html grid —————————————— */
+/* —————————————— Grid Container —————————————— */
 
 .grid-container {
 display: grid; 
@@ -276,12 +276,12 @@ footer ul li {
 }
 
 
-/* —————————————— Galleries —————————————— */
+/* —————————————— Post galleries —————————————— */
 
-.gallery {
+.gallery-post {
   width: 100%;
 }
-.gallery p {
+.gallery-post p {
   padding: 50px 0;
   min-width: fit-content;
 }
@@ -289,25 +289,39 @@ p img {
   width: 100%;
   margin-bottom: 16px;
 }
-.img-1-2 {
+.gallery-post .vertical:nth-child(odd) {
  width: calc(50% - 16px);
  float: left;
  padding-bottom: 16px;
 }
-.img-2-2 {
+.gallery-post .vertical:nth-child(even) {
  width: calc(50% - 16px);
  float: right;
  padding-bottom: 16px;
 }
-.gallery-full p, .gallery-full img {
+
+
+
+/* —————————————— Galleries —————————————— */
+
+.gallery-gallery p,
+.gallery-gallery img {
   margin-bottom: 5vw;
   max-width: 100%;
 }
-.gallery-full .img-1-2 {
- width: calc(50% - 16px);
- float: left;
- padding-bottom: 16px;
+.gallery-gallery .vertical:nth-child(odd) {
+  width: calc(50% - 16px);
+  float: right;
 }
+.gallery-gallery .vertical:nth-child(even) {
+  width: calc(50% - 16px);
+  float: left;
+}
+
+
+
+/* —————————————— Essays —————————————— */
+
 .essay-title p {
   font-size: 50px;
   line-height: 1;
@@ -317,15 +331,23 @@ p img {
 .essay-title h1 {
   opacity: .6;
 }
-.gallery-essay p {
+.gallery-photoessay p {
   margin-bottom: 20vw;
   max-width: 100%;
 }
-.gallery-essay img {
+.gallery-photoessay img {
   background: white;
   padding: 7.5vw;
   max-width: 75vw;
   margin: 5vw auto;
+}
+.gallery-photoessay .vertical:nth-child(even) {
+  width: 60%;
+  float: right;
+}
+.gallery-photoessay .vertical:nth-child(odd) {
+  width: 60%;
+  float: left;
 }
 
 /* —————————————— Media quieries —————————————— */
@@ -346,8 +368,8 @@ h3, p, .category li {font-size: 14px}
 footer ul {font-size: 14px;}
 .left, .right p {max-width: 450px}
 .post-navigation a {font-size: 12px}
-.gallery-full .img-1-2, .img-1-2, .img-2-2 {width:100%}
-.gallery-essay img {padding: 5vw; max-width: 80vw; margin: 5vw auto;}
+.gallery-photoessay img {padding: 5vw; max-width: 80vw; margin: 5vw auto;}
+.vertical:nth-child(odd), .vertical:nth-child(even) {width:100% !important;}
 .essay-title p {font-size: 28px;}
 .category li .info {float: none; display: block;}
 }

@@ -16,7 +16,7 @@ I'm not going to lie to you: I read it in the pamphlet they gave us with a pass 
 
 The truth is that this is a beautiful building, at least on the inside. That often makes me wonder if the buildings of our time will be visited a few hundred years from now by tourists from the future, although something tells me that the answer it will be a simple *no*.
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)

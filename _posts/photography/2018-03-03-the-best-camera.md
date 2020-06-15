@@ -14,7 +14,7 @@ I usually carry my Fuji when I leave the house if I don't have a specific plan, 
 
 This Saturday I had to walk the dog of my in-laws –a labrador retriever called *Martín*– before going out to dinner, and that's specific enough to leave the camera at home. Fade to black. My new iPhone SE enters the scene. I knew the camera was excellent compared to the old Xperia Z3 and I took it out to snap a few photos.
 
-<div class="gallery" markdown="1">
+<div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)
