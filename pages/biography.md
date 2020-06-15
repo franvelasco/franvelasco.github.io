@@ -42,5 +42,5 @@ You can stop by [SoundCloud](https://soundcloud.com/franvelasco/albums){:target=
 ### Mixtapes
 
 Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/efless?si=e_ZKjKO_S0uB5Ek6mhIWRA){:target="_blank"}.
-I'm probably listening to soundtracks right now, Mac Miller, Jim Guthrie, Austin Wintory, or Smashing Pumpkins. I'm still waiting for a new album by A Wilhelm Scream.
+[Right now](https://www.last.fm/user/efless){:target="_blank"}, I'm probably playing some soundtrack, Mac Miller, Jim Guthrie, Austin Wintory or Smashing Pumpkins. I keep waiting on a new A Wilhelm Scream album.
 

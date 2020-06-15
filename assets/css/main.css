@@ -77,9 +77,11 @@ blockquote h1 {
 }
 
 hr {
-  border-color: var(--c-text);
-  border: 1px solid;
+  height: 1px;
   opacity: .15;
+  border-width: 0;
+  color: var(--c-text);
+  background-color: var(--c-text);
 }
 
 
@@ -109,28 +111,28 @@ header {
 
 /* —————————————— Categorías —————————————— */
 
-.categorias {
+.category {
   list-style-type: none;
   max-width: 700px;
   padding: 0;
 }
-.categoria-post {
-  border-bottom: .5px solid;
+.category li {
+  border-bottom: 1px solid;
   border-color: var(--c-catpost);
   font-size: 18px;
   padding-top: 20px;
 }
-.categoria-post-date {
-  float: right;
-  font-size: 80%;
-  opacity: .3;
-}
-.categoria-info {
+.category li .info {
   float: right;
   opacity: .6;
   display: flex;
 }
-.categorias li h1 {
+.category-post-date {
+  float: right;
+  font-size: 80%;
+  opacity: .3;
+}
+.category li h1 {
   padding-bottom: 0;
 }
 
@@ -153,6 +155,11 @@ padding-bottom: 120px;
 }
 .left h2 {
   margin: 0 0 25px 0;
+}
+.right hr {
+  max-width: 700px;
+  text-align: left;
+  margin-left: 0;
 }
 
 
