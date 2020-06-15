@@ -254,6 +254,26 @@ footer ul li {
 }
 
 
+/* —————————————— Newsletter —————————————— */
+
+.news-field {
+  border: 1px solid var(--c-catpost);
+  background-color: var(--c-bg);
+  color: var(--c-text);
+  border-radius: 3px;
+  font-size: 14px;
+  height: 20px;
+  width: 50%;
+}
+.news-button {
+  border: none;
+  background-color: var(--c-detail);
+  color: var(--c-bg);
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+
 /* —————————————— Post Contact —————————————— */
 
 .post-contact {
