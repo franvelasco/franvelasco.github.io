@@ -15,7 +15,7 @@ In 2002 I started working as a creative in projects related to lettering, handle
 
 In 2017, [Efless](http://efless.co){:target="_blank"} becomes my full-time studio where I continue to work with clients from all over the world, trying to improve and grow with each project.
 
-I have had the opportunity to collaborate with national music bands such as Desakato, Escuela de Odio, Atzembla, Acid Mess, The Attack of the Brain Eaters creating covers, posters, logos, merch designs, promos or music videos; music festivals such as Resurrection Fest, Tsunami Xixon, Caudal Fest, O Son do Camiño or Castelo Rock; drawn a series of 40 Edelvives religion school book covers; designed garments for Sevenly, The Bee & The Fox, Pampling or HRB Movement; or creating letterings, handletterings and calligraphies for different media, such as The New York Times Magazine or JOIA Magazine.
+I have had the opportunity to collaborate with music bands such as Much The Same, Desakato, Escuela de Odio, Atzembla, Acid Mess, The Attack of the Brain Eaters and many more creating artworks, posters, logos, merch designs, promos or music videos; music festivals such as Resurrection Fest, Tsunami Xixon, Caudal Fest, O Son do Camiño or Castelo Rock; drawn a series of 40 Edelvives religion school book covers; designed garments for Sevenly, The Bee & The Fox, Pampling or HRB Movement; or creating letterings, handletterings and calligraphies for different media, such as The New York Times Magazine or JOIA Magazine.
 
 You can see my work on my website [Efless.co](http://efless.co){:target="_blank"} and in [Behance](http://behance.com/efless){:target="_blank "}, [Instagram](http://instagram.com/efless){: target =" _blank "} and [Dribbble](http://dribbble.com/efless){:target="_blank "}.
 
@@ -23,9 +23,9 @@ You can see my work on my website [Efless.co](http://efless.co){:target="_blank"
 
 ### Photographs
 
-I take many photos (maybe too many) and sometime share them on this blog. Other times I remember that I'm on [Instagram](http://instagram.com/franvelas.co){:target="_blank"} and I upload one.
+I take many photos (maybe too many) and sometimes I share them on [this blog]({{site.url}}/journal#Photography). Other day I remember that I'm also on [Instagram](http://instagram.com/franvelas.co){:target="_blank"} and I upload one there.
 
-Not a few people ask me what equipment I use, even if it is a reel camera. Although it may seem, only digital shooting. Right now I am using a small Fujifilm X-T1 along with a 16mm f2.8, 23mm f1.4, 35mm f2 and 50mm f2 that live in a Billingham bag; and a Macbook Pro 13 "or iPad Pro 10.5 where I then edit with Lightroom CC.
+A few people have asked about the equipment I use, even if what i use is a film camera. Although it may seem so, I only shoot digital. Right now I am using a small Fujifilm X-T1 along with a 16mm f2.8, 23mm f1.4, 35mm f2 and 50mm f2 that I carry in a Billingham bag; and a Macbook Pro 13 "or iPad Pro 10.5 where I edit them using Lightroom CC.
 
 <br>
 
@@ -33,7 +33,7 @@ Not a few people ask me what equipment I use, even if it is a reel camera. Altho
 
 Back in 1995 I started playing bass and until 2013 I was making noise where they left us.
 
-I've played and / or sung on Acid Rain, Bloodguts, Plan8, DinnerDog, Some Stuff, Bah-Zillions, Eleven Fingered Boy, The Rises, A Bleeding Hero and some other bands where I don't even remember what I was doing.
+I've played and/or sung on Acid Rain, Bloodguts, Plan8, DinnerDog, Some Stuff, Bah-Zillions, Eleven Fingered Boy, The Rises, A Bleeding Hero and some other bands where I don't even remember what I was doing.
 
 You can stop by [SoundCloud](https://soundcloud.com/franvelasco/albums){:target="_blank"} and listen to some of the recordings.
 
@@ -41,6 +41,6 @@ You can stop by [SoundCloud](https://soundcloud.com/franvelasco/albums){:target=
 
 ### Mixtapes
 
-Listen to my heavy duty playlists on [Spotify](https://open.spotify.com/user/efless?si=e_ZKjKO_S0uB5Ek6mhIWRA){:target="_blank"}.
+Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/efless?si=e_ZKjKO_S0uB5Ek6mhIWRA){:target="_blank"}.
 I'm probably listening to soundtracks right now, Mac Miller, Jim Guthrie, Austin Wintory, or Smashing Pumpkins. I'm still waiting for a new album by A Wilhelm Scream.
 
