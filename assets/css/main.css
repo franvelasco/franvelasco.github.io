@@ -267,7 +267,7 @@ footer ul li {
   outline-style: none;
 }
 .news-field:focus {
-  background-color: var(--c-detail);
+  background-color: var(--c-text);
 }
 ::placeholder {
   color: var(--c-text);
@@ -277,8 +277,8 @@ footer ul li {
 }
 .news-button {
   border: none;
-  background-color: var(--c-bg);
-  color: var(--c-detail);
+  background-color: rgba(0,0,0,0);
+  color: var(--c-text);
   font-size: 20px;
   vertical-align: -1px;
 }
