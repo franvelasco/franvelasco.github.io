@@ -111,7 +111,7 @@ header {
 
 /* —————————————— Categories —————————————— */
 
-.category {
+ul {
   list-style-type: none;
   max-width: 700px;
   padding: 0;
