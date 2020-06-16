@@ -127,7 +127,7 @@ header {
   opacity: .6;
   display: flex;
 }
-.category-post-date {
+.category li .date {
   float: right;
   font-size: 80%;
   opacity: .3;
