@@ -2,8 +2,9 @@
 layout: page
 title: Journal
 permalink: /journal/
-excerpt: Improving my writing skills, word by word.
+excerpt: Improving my writing skills, word by words.
 ---
+
 
 <ul class="category">
 {% for category in site.categories reversed %}
