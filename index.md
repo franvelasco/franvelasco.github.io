@@ -14,4 +14,4 @@ Hello, my name is *Fran Velasco*. I live in Madrid with my wife *Cecilia*, my so
 
 <br>
 
-![1](../assets/imgs/fran-profile-pic.jpg)
+![This is Fran Velasco. April 2020](../assets/imgs/fran-profile-pic.jpg)
