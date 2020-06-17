@@ -16,13 +16,13 @@
 }
 
 :root {
-  --c-bg: #182022;
-  --c-bgfade: #ffffff10;
-  --c-text: white;
-  --c-detail: #cff;
-  --c-catpost: #ffffff35;
   --f-text: "Libre Baskerville", serif;
   --f-header: "Inter", sans-serif;
+  --c-text: white;
+  --c-bg: #182022;
+  --c-bgfade: #ffffff10;
+  --c-detail: #cff;
+  --c-catpost: #ffffff35;
   --c-gallery: #ffb1b1;
   --c-travel: #ffc6ef;
   --c-music: #ffedae;
