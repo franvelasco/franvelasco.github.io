@@ -1,15 +1,18 @@
 @font-face {
   font-family: "Inter";
-  src: url(../fonts/Inter-Regular.woff2)
+  src: url(../fonts/Inter-Regular.woff2);
+  font-display: swap;
 }
 @font-face {
   font-family: "Libre Baskerville";
   src: url(../fonts/LibreBaskerville-Regular.ttf)
+  font-display: swap;
 }
 @font-face {
   font-family: "Libre Baskerville";
   src: url(../fonts/LibreBaskerville-Italic.ttf)
   font-style: italic;
+  font-display: swap;
 }
 
 :root {
