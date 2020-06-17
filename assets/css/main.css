@@ -18,8 +18,8 @@
   --c-text: white;
   --c-detail: #cff;
   --c-catpost: #ffffff35;
-  --f-text: "Libre Baskerville";
-  --f-header: "Inter";
+  --f-text: "Libre Baskerville", serif;
+  --f-header: "Inter", sans-serif;
   --c-gallery: #ffb1b1;
   --c-travel: #ffc6ef;
   --c-music: #ffedae;
