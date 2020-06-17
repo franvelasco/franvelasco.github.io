@@ -240,6 +240,10 @@ footer ul {
 footer ul li {
   overflow: hidden;
 }
+footer .dot {
+  font-size: 65%;
+  vertical-align: text-bottom;
+}
 .Writing {
   color: var(--c-writing);
 }
