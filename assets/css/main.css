@@ -1,12 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@font-face {
+  font-family: "Inter";
+  src: url(../fonts/Inter-Regular.woff2)
+}
+@font-face {
+  font-family: "Libre Baskerville";
+  src: url(../fonts/LibreBaskerville-Regular.ttf)
+}
+@font-face {
+  font-family: "Libre Baskerville";
+  src: url(../fonts/LibreBaskerville-Italic.ttf)
+  font-style: italic;
+}
 
 :root {
   --c-bg: #182022;
   --c-bgfade: #ffffff10;
   --c-text: white;
   --c-detail: #cff;
-  --c-catpost: #ffffff40;
+  --c-catpost: #ffffff35;
   --f-text: "Libre Baskerville";
   --f-header: "Inter";
   --c-gallery: #ffb1b1;
@@ -94,6 +105,52 @@ header {
   height: 45px;
 }
 
+/* —————————————— Accordion —————————————— */
+
+.accordion {
+  max-width: 700px;
+  border-bottom: 1px solid var(--c-catpost);
+}
+.accordion h1 {
+  margin-bottom: 5px !important;
+}
+.accordion input {
+  display: none;
+}
+
+.accordion label {
+  border-top: 1px solid var(--c-catpost);
+  display: block;    
+  cursor: pointer;
+  position: relative;
+}
+
+.accordion label:hover {
+  color: var(--c-detail);
+}
+
+.accordion label::after {
+  content: '->';
+  position: absolute;
+  right: 0;
+  top: 19px;
+}
+
+.accordion input:checked + label::after {
+  content: '↑';
+}
+
+.accordion .content {
+  padding: 10px 0 50px 0;
+}
+
+.accordion input + label + .content {
+  display: none;
+}
+
+.accordion input:checked + label + .content {
+  display: block;
+}
 
 /* —————————————— Blog —————————————— 
 
@@ -394,6 +451,7 @@ h1 {font-size: 20px}
 h2 {font-size: 16px}
 h3, p, .category li {font-size: 14px}
 .big-text {font-size: 20px; }
+.accordion label::after {top: 17px}
 footer ul {font-size: 14px;}
 .left, .right p {max-width: 450px}
 .post-navigation a {font-size: 12px}
