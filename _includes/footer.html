@@ -29,7 +29,7 @@
           <ul><h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
           {% assign date = currentdate %}
         {% endif %}
-          <li><a class="{{ post.categories }}-fx" href="{{ post.url }}">{{ post.title }} <span class="{{ post.categories }}">●</span></a></li>
+          <li><a class="{{ post.categories }}-fx" href="{{ post.url }}">{{ post.title }} <span class="{{ post.categories }} dot">●</span></a></li>
         {% if forloop.last %}</ul>{% endif %}
       {% endfor %}
     </div>
