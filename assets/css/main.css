@@ -228,6 +228,9 @@ padding-bottom: 120px;
 .footer {
   padding-top: 120px;
 }
+.footer .left a:hover {
+  color: var(--c-detail);
+}
 .footer-columns {
   column-count: 1;
 }
