@@ -19,7 +19,7 @@
   --f-text: "Libre Baskerville", serif;
   --f-header: "Inter", sans-serif;
   --c-text: white;
-  --c-bg: #182022;
+  --c-bg: #112d36;
   --c-bgfade: #ffffff10;
   --c-detail: #cff;
   --c-catpost: #ffffff35;
@@ -228,7 +228,7 @@ padding-bottom: 120px;
 .footer {
   padding-top: 120px;
 }
-.footer .left a:hover {
+footer .left a:hover {
   color: var(--c-detail);
 }
 .footer-columns {
@@ -327,7 +327,7 @@ footer .dot {
   border: none;
   background-color: var(--c-bgfade);
   color: var(--c-bg);
-  border-radius: 3px;
+  border-radius: 100px;
   font-size: 14px;
   height: 20px;
   width: 40%;
@@ -335,12 +335,12 @@ footer .dot {
 }
 .news-field:focus {
   background-color: var(--c-text);
+  width: 80%;
 }
 ::placeholder {
   color: var(--c-text);
   opacity: .2;
-  font-family: var(--f-text);
-  font-style: italic;
+  padding: auto 0 2px 4px;
 }
 .news-button {
   border: none;
@@ -348,6 +348,10 @@ footer .dot {
   color: var(--c-text);
   font-size: 20px;
   vertical-align: -1px;
+  padding: 0;
+}
+.news-button:hover {
+  color: var(--c-detail);
 }
 
 
