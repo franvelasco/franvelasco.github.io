@@ -1,13 +1,13 @@
 ---
 layout:		photoessay
 title:		The Monochrome Compendium
-date:		2018-12-10
+date:		2006-12-15
 permalink: 	/gallery/the-monochrome-compendium/
 categories:	Photoessay
 
 excerpt: 	A monochromatic series of everyday life.
 info-place: Everywhere
-info-date:	From 2007 to 2020
+info-date:	From 2006 to 2020
 img-name:	galtmc
 ---
 

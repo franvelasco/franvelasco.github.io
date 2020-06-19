@@ -232,7 +232,10 @@ footer .left a:hover {
   color: var(--c-detail);
 }
 .footer-columns {
-  column-count: 1;
+  column-count: 2;
+}
+.footer-columns ul {
+  break-inside: avoid;
 }
 footer ul {
   font-size: 18px;

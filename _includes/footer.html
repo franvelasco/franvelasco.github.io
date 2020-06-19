@@ -21,6 +21,7 @@
     </div>
 
     <div class="right footer-columns">
+
       {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%Y" %}
         {% if currentdate != date %}
@@ -32,7 +33,6 @@
           <li><a class="{{ post.categories }}-fx" href="{{ post.url }}">{{ post.title }} <span class="{{ post.categories }} dot">●</span></a></li>
         {% if forloop.last %}</ul>{% endif %}
       {% endfor %}
-    </div>
 
   </div>
 
