@@ -61,7 +61,7 @@ h6 {font-size: 14px; opacity: .4}
 
 p {font-family: var(--f-text) ;font-size: 18px; line-height: 1.75}
 
-h1, h2, h3, h6, p, .big-text {width: 700px}
+h1, h2, h3, h6, p, .big-text {max-width: 700px}
 
 .right ul li {
   line-height: 1.75;
