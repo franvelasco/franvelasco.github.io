@@ -63,6 +63,10 @@ p {font-family: var(--f-text) ;font-size: 18px; line-height: 1.75}
 
 h1, h2, h3, h6, p, .big-text {max-width: 700px}
 
+.right ul li {
+  line-height: 1.75;
+}
+
 a {
   text-decoration: none;
   color: var(--c-text);
@@ -237,6 +241,8 @@ footer .left a:hover {
 .footer-columns ul {
   break-inside: avoid;
 }
+.footer-columns ul h3 {
+}
 footer ul {
   font-size: 18px;
   line-height: 1.6;
@@ -365,6 +371,14 @@ footer .dot {
 }
 .post-contact p {
   font-style: italic;
+}
+
+
+/* —————————————— Post —————————————— */
+
+.single-img {
+  max-width: 100%;
+  padding: 50px 0;
 }
 
 
