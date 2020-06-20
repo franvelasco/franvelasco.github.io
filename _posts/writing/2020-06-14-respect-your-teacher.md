@@ -14,7 +14,7 @@ Yesterday I saw my wife teaching a history class. It was the first time I saw he
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 	
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}01.jpg)
 
 </div>
 
@@ -22,7 +22,7 @@ If you learnt anything, someone has taught you somehow, so please respect your t
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}02.jpg)
 
 </div>
 

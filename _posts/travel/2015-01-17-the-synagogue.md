@@ -18,15 +18,15 @@ The truth is that this is a beautiful building, at least on the inside. That oft
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}02.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}03.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}04.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}05.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}06.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}07.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}08.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}09.jpg)
-![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}10.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}01.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}02.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}03.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}04.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}05.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}06.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}07.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}08.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}09.jpg)
+![](/assets{{page.permalink}}{{page.img-name}}10.jpg)
 
 </div>
