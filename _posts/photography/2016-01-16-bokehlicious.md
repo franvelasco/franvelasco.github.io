@@ -10,7 +10,7 @@ info-place:	Madrid, Spain
 img-name:	bokehlicious
 ---
 
-# ![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
+![]({{site.url}}/assets{{page.permalink}}{{page.img-name}}01.jpg)
 
 This is what happens when you use a Helios 44M-6 58mm ƒ2 in a Fuji with an speed booster. *Swirly bokeh everywhere!* I'm so glad I found this little gem in a flea market in Naples where I paid 10 euros to get it with an old Zenit camera. It is not the sharpest or cleanest lens, but it is a very fun one to use, that's for sure. 
 
