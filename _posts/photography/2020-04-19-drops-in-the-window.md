@@ -14,14 +14,14 @@ When you stay home for days and days, you look for any out of the ordinary view 
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![](/assets{{page.permalink}}{{page.img-name}}02.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}03.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}04.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}05.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}06.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}08.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}09.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}07.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}10.jpg)
+![]({% include hosted-img.html %}02.jpg)
+![]({% include hosted-img.html %}03.jpg)
+![]({% include hosted-img.html %}04.jpg)
+![]({% include hosted-img.html %}05.jpg){:class="vertical"}
+![]({% include hosted-img.html %}06.jpg){:class="vertical"}
+![]({% include hosted-img.html %}08.jpg)
+![]({% include hosted-img.html %}09.jpg){:class="vertical"}
+![]({% include hosted-img.html %}07.jpg){:class="vertical"}
+![]({% include hosted-img.html %}10.jpg)
 
 </div>

@@ -16,11 +16,11 @@ Ten days have passed since I received the Fujicron 50 and due to the recent snow
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![](/assets{{page.permalink}}{{page.img-name}}01.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}02.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}03.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}04.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}05.jpg)
+![]({% include hosted-img.html %}01.jpg)
+![]({% include hosted-img.html %}02.jpg)
+![]({% include hosted-img.html %}03.jpg)
+![]({% include hosted-img.html %}04.jpg)
+![]({% include hosted-img.html %}05.jpg)
 
 </div>
 
@@ -32,12 +32,12 @@ Other than An Andalusian Dog â€“and it's been so long I don't even remember itâ€
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![](/assets{{page.permalink}}{{page.img-name}}06.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}07.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}08.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}09.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}10.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}11.jpg)
+![]({% include hosted-img.html %}06.jpg)
+![]({% include hosted-img.html %}07.jpg)
+![]({% include hosted-img.html %}08.jpg)
+![]({% include hosted-img.html %}09.jpg)
+![]({% include hosted-img.html %}10.jpg)
+![]({% include hosted-img.html %}11.jpg)
 
 </div>
 

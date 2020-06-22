@@ -12,16 +12,16 @@ img-name:	galcanterbury
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![](/assets{{page.permalink}}{{page.img-name}}31.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}33.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}32.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}35.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}36.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}34.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}37.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}38.jpg)
-![](/assets{{page.permalink}}{{page.img-name}}39.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}40.jpg){:class="vertical"}
-![](/assets{{page.permalink}}{{page.img-name}}41.jpg)
+![]({% include hosted-img.html %}31.jpg)
+![]({% include hosted-img.html %}33.jpg)
+![]({% include hosted-img.html %}32.jpg)
+![]({% include hosted-img.html %}35.jpg)
+![]({% include hosted-img.html %}36.jpg)
+![]({% include hosted-img.html %}34.jpg){:class="vertical"}
+![]({% include hosted-img.html %}37.jpg){:class="vertical"}
+![]({% include hosted-img.html %}38.jpg)
+![]({% include hosted-img.html %}39.jpg){:class="vertical"}
+![]({% include hosted-img.html %}40.jpg){:class="vertical"}
+![]({% include hosted-img.html %}41.jpg)
 
 </div>
