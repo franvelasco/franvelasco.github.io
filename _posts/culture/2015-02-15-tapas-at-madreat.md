@@ -18,7 +18,7 @@ It will never cease to amaze me how many things you can do in Madrid any day of 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({% include hosted-img.html %}01.jpg)
-![]({% include hosted-img.html %}02.jpg)
+![]({% include hosted-img.html %}02.jpg){:.huge}
 ![]({% include hosted-img.html %}03.jpg)
 ![]({% include hosted-img.html %}04.jpg)
 
