@@ -40,8 +40,8 @@ The only bad thing to mention is that MadrEAT is only held on the second weekend
 <div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({% include hosted-img.html %}09.jpg)
+![]({% include hosted-img.html %}11.jpg){:.vertical}
+![]({% include hosted-img.html %}12.jpg){:.vertical}
 ![]({% include hosted-img.html %}10.jpg)
-![]({% include hosted-img.html %}11.jpg)
-![]({% include hosted-img.html %}12.jpg)
 
 </div>
