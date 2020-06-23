@@ -16,11 +16,11 @@ Ten days have passed since I received the Fujicron 50 and due to the recent snow
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![]({% include hosted-img.html %}01.jpg)
-![]({% include hosted-img.html %}02.jpg)
-![]({% include hosted-img.html %}03.jpg)
-![]({% include hosted-img.html %}04.jpg)
-![]({% include hosted-img.html %}05.jpg)
+![]({%include hosted-img.html%}01.jpg)
+![]({%include hosted-img.html%}02.jpg)
+![]({%include hosted-img.html%}03.jpg)
+![]({%include hosted-img.html%}04.jpg)
+![]({%include hosted-img.html%}05.jpg)
 
 </div>
 

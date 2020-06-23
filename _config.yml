@@ -23,9 +23,9 @@ email: hola@franvelas.co
 description: >- # this means to ignore newlines until "baseurl:"
   Another personal site. Welcome to mine.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://franvelas.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: efless
-github_username:  efless
+github_username:  franvelasco
 
 # Build settings
 theme: minima
