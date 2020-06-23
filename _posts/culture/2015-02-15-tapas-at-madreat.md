@@ -24,7 +24,7 @@ It will never cease to amaze me how many things you can do in Madrid any day of 
 
 </div>
 
-As we were there, we grabbed some nachos as an appetizer, some croquettes as we walked, and then we stopped to try the hot dogs from the stall with more queue in the whole market. For dessert we got an amazing Nutella pancake. And everything was deliciu"s, accompanied by an amazing sunny weather. with a cloud that began threatening to unload on us but that in the end it went away.
+As we were there, we grabbed some nachos as an appetizer, some croquettes as we walked, and then we stopped to try the hot dogs from the stall with more queue in the whole market. For dessert we got an amazing Nutella pancake. And everything was delicious, accompanied by an amazing sunny weather. with a cloud that began threatening to unload on us but that in the end it went away.
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
@@ -37,3 +37,11 @@ As we were there, we grabbed some nachos as an appetizer, some croquettes as we 
 
 The only bad thing to mention is that MadrEAT is only held on the second weekends of each month, so we will wait until March to return. In the meantime, keep discovering my new city.
 
+<div class="gallery-{{ page.layout }}" markdown="1">
+
+![]({% include hosted-img.html %}09.jpg)
+![]({% include hosted-img.html %}10.jpg)
+![]({% include hosted-img.html %}11.jpg)
+![]({% include hosted-img.html %}12.jpg)
+
+</div>
