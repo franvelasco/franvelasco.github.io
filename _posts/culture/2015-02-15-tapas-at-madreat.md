@@ -18,7 +18,7 @@ It will never cease to amaze me how many things you can do in Madrid any day of 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
 ![]({% include hosted-img.html %}01.jpg)
-![]({% include hosted-img.html %}02.jpg){:.huge}
+![]({% include hosted-img.html %}02.jpg)
 ![]({% include hosted-img.html %}03.jpg)
 ![]({% include hosted-img.html %}04.jpg)
 
@@ -30,7 +30,7 @@ As we were there, we grabbed some nachos as an appetizer, some croquettes as we 
 
 ![]({% include hosted-img.html %}05.jpg)
 ![]({% include hosted-img.html %}06.jpg)
-![]({% include hosted-img.html %}07.jpg)
+![]({% include hosted-img.html %}07.jpg){:.huge}
 ![]({% include hosted-img.html %}08.jpg)
 
 </div>
