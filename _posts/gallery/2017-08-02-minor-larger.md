@@ -23,7 +23,7 @@ img-name:	minorlarger
 ![]({% include hosted-img.html %}08.jpg)
 ![]({% include hosted-img.html %}09.jpg)
 ![]({% include hosted-img.html %}10.jpg)
-![]({% include hosted-img.html %}11.jpg){:.vertical}
+![]({% include hosted-img.html %}11.jpg)
 ![]({% include hosted-img.html %}12.jpg)
 ![]({% include hosted-img.html %}13.jpg)
 ![]({% include hosted-img.html %}14.jpg)
