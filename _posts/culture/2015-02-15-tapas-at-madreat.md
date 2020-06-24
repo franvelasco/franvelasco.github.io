@@ -30,7 +30,7 @@ As we were there, we grabbed some nachos as an appetizer, some croquettes as we 
 
 ![]({% include hosted-img.html %}05.jpg)
 ![]({% include hosted-img.html %}06.jpg)
-![]({% include hosted-img.html %}07.jpg){:.huge}
+![]({% include hosted-img.html %}07.jpg){:.offset}
 ![]({% include hosted-img.html %}08.jpg)
 
 </div>
