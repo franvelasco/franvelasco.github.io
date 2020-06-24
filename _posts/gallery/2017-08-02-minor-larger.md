@@ -3,11 +3,10 @@ layout:		gallery
 title:		Minor + Larger
 date:		2017-08-02
 permalink: 	/gallery/minor-larger/
-categories:	Photoessay
+categories:	Gallery
 
 excerpt: 	A cloudy day in Minor Sea and Larger Sea, in Murcia.
 info-place: La Manga, Spain
-info-date:	2nd of August, 2018
 img-name:	minorlarger
 ---
 
