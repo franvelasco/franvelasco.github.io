@@ -1,14 +1,16 @@
 :root {
+  /* body */
   --c-bg: #d3dfdf;
+  --c-text: #333;
+  --c-detail: #296969;
   --c-bgfade: #66666614;
   --c-catpost: #33333340;
+  /* categories */
   --c-culture: #57affb;
-  --c-detail: #296969;
   --c-gallery: #ff7a7a;
   --c-music: #ffc861;
   --c-photo: #47d781;
   --c-photoessay: #faa27a;
-  --c-text: #333;
   --c-travel: #ff8fe0;
   --c-writing: #3ce0ed;
 }
