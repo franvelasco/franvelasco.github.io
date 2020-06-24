@@ -10,7 +10,7 @@ excerpt: I'm everywhere.
 # You can find me as a human being using my real name on:
 
 <ul class="category">
-  <li><a href="mailto:hola@franvelas.co" target="_blank">Email<span class="info">f@franvelas.co</span></a></li>
+  <li><a href="mailto:f@franvelas.co" target="_blank">Email<span class="info">f@franvelas.co</span></a></li>
   <li><a href="https://linkedin.com/in/franvelasco" target="_blank">Linkedin<span class="info">/franvelasco</span></a></li>
   <li><a href="https://instagram.com/franvelas.co" target="_blank">Instagram<span class="info">@franvelas.co</span></a></li>
   <li><a href="https://soundcloud.com/franvelasco" target="_blank">SoundCloud<span class="info">/franvelas.co</span></a></li>
