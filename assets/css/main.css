@@ -16,20 +16,20 @@
 }
 
 :root {
-  --f-text: "Libre Baskerville", serif;
-  --f-header: "Inter", sans-serif;
-  --c-text: white;
   --c-bg: #182022;
   --c-bgfade: #ffffff10;
-  --c-detail: #cff;
   --c-catpost: #ffffff35;
+  --c-culture: #98cfff;
+  --c-detail: #cff;
   --c-gallery: #ffb1b1;
-  --c-travel: #ffc6ef;
   --c-music: #ffedae;
   --c-photo: #adf5ca;
   --c-photoessay: #f6bfa6;
-  --c-culture: #98cfff;
+  --c-text: white;
+  --c-travel: #ffc6ef;
   --c-writing: #bafaff;
+  --f-header: "Inter", sans-serif;
+  --f-text: "Libre Baskerville", serif;
 }
 
 body {
