@@ -27,7 +27,7 @@
         {% if currentdate != date %}
           {% unless forloop.first %}</ul>{% endunless %}
           
-          <ul><h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
+          <ul><h3>{{ currentdate }}</h3>
           {% assign date = currentdate %}
         {% endif %}
           <li><a class="{{ post.categories }}-fx" href="{{ post.url }}">{{ post.title }} <span class="{{ post.categories }} dot">●</span></a></li>
