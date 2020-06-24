@@ -13,7 +13,6 @@ img-name:	minorlarger
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![]({% include hosted-img.html %}00.jpg)
 ![]({% include hosted-img.html %}01.jpg)
 ![]({% include hosted-img.html %}02.jpg)
 ![]({% include hosted-img.html %}03.jpg)
