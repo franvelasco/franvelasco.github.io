@@ -470,6 +470,9 @@ p img {
 .grid-container {grid-template-columns: 1fr; grid-template-rows: 1fr;}
 .left {grid-area: 1 / 1 / 2 / 3;max-width: 700px}
 .right {grid-area: 2 / 1 / 3 / 3;}
+footer .grid-container {grid-template-columns: repeat(12, 1fr);; grid-template-rows: 1fr;}
+footer .left {grid-area: 1 / 1 / 2 / 6}
+footer .right {grid-area: 1 / 6 / 2 / 13}
 .footer-columns {column-count: 1}
 .offset {width: 100%; margin-left: 0;}
 }
@@ -487,4 +490,9 @@ footer ul {font-size: 14px;}
 .vertical:nth-child(odd), .vertical:nth-child(even) {width:100% !important;}
 .essay-title p {font-size: 28px;}
 .category li .info {float: none; display: block;}
+}
+@media (max-width: 480px) {
+footer .grid-container {grid-template-columns: 1fr; grid-template-rows: 1fr;}
+footer .left {grid-area: 1 / 1 / 2 / 2}
+footer .right {grid-area: 2 / 1 / 3 / 2}
 }
