@@ -72,7 +72,7 @@ a {
   color: var(--c-text);
 }
 
-p a {
+p a, p a:visited {
   color: var(--c-detail);
   font-family: var(--f-text);
   font-style: italic;
@@ -239,9 +239,12 @@ footer .left a:hover {
   column-count: 2;
 }
 .footer-columns ul {
+  padding-top: .1px;
   break-inside: avoid;
 }
-.footer-columns ul h3 {
+.footer-columns h3 {
+  padding-top: 0;
+  margin-top: 0;
 }
 footer ul {
   font-size: 18px;
