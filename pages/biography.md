@@ -5,7 +5,7 @@ permalink: /biography/
 excerpt: (Almost) everything about me.
 ---
 
-# This is a work in progress, so come back soon as I'll be adding words as days go by.
+# This is a work in progress, so come back soon as I'll be adding info as days go by.
 
 <br><br>
 

@@ -1,8 +1,10 @@
+_drafts
 _material
 _files
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+pages/private
 vendor
 .DS_Store
