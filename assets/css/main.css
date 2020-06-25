@@ -488,6 +488,7 @@ footer .left {grid-area: 1 / 1 / 2 / 6}
 footer .right {grid-area: 1 / 6 / 2 / 13}
 .footer-columns {column-count: 1}
 .gallery-post p img:hover {width: 100%; margin-left: 0}
+.gallery-post .vertical:nth-child(odd):hover, .gallery-post .vertical:nth-child(even):hover {width: calc(50% - 16px)}
 .offset {width: 100%; margin-left: 0;}
 }
 @media (max-width: 780px) {
