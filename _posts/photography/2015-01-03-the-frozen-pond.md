@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  The Frozen Pond
-date:   2015-01-03
-permalink: /post/the-frozen-pond/
-categories: Photography
+layout: 	post
+title:		The Frozen Pond
+date:		2015-01-03
+permalink:	/post/the-frozen-pond/
+categories:	Photography
 
-excerpt: Chasing ice chunks and frozen leaves.
-info-place: Montejo de la Sierra, Spain
-img-name: frozenpond
+excerpt:	Chasing ice chunks and frozen leaves.
+info-place:	Montejo de la Sierra, Spain
+img-name:	frozenpond
 ---
 
 After a previous visit to Montejo to celebrate the new year, we came back on the 3rd of January to celebrate [los Reyes Magos][reyes]{:target="_blank"} three days earlier, given that the whole family of Cecilia would only be together until that very day. After a breakfast made of the famous [Roscón de Reyes][roscon]{:target="_blank"} and a hot chocolate made by the grandmother, we went for a walk around the area up to the frozen lake.
