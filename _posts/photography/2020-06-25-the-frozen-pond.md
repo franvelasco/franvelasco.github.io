@@ -22,6 +22,7 @@ I can't complain at all about my Christmas holidays, although it goes without sa
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
+![]({% include hosted-img.html %}01.jpg)
 ![]({% include hosted-img.html %}02.jpg)
 ![]({% include hosted-img.html %}03.jpg)
 ![]({% include hosted-img.html %}04.jpg)
