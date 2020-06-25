@@ -41,7 +41,7 @@ body {
   height: 100%;
   line-height: 1.4;
   margin: 5vw;
-  transition: .5 ease;
+  transition: .5s ease-in-out;
 }
 
 * {
@@ -49,7 +49,6 @@ body {
   -webkit-text-size-adjust: 100%;
   font-family: var(--f-header), sans-serif;
   font-weight: 400;
-  transition:all 0.25s linear;
 }
 
 
@@ -392,15 +391,20 @@ img .img100 {
 /* —————————————— Post galleries —————————————— */
 
 .gallery-post {
-  width: 100%;
+ width: 100%;
 }
 .gallery-post p {
-  padding: 50px 0;
-  min-width: fit-content;
+ padding: 50px 0;
+ min-width: fit-content;
 }
 p img {
-  width: 100%;
-  margin-bottom: 16px;
+ width: 100%;
+ margin-bottom: 16px;
+ transition: .75s ease-in-out;
+}
+.gallery-post p img:hover {
+ width: 172.3%;
+ margin-left: -72.3%;
 }
 .offset {
  width: 135%;
@@ -416,8 +420,14 @@ p img {
  float: right;
  padding-bottom: 16px;
 }
-
-
+.gallery-post .vertical:nth-child(odd):hover {
+ width: calc(122.3% - 16px);
+ z-index: 999;
+}
+.gallery-post .vertical:nth-child(even):hover {
+ width: calc(122.3% - 16px);
+ z-index: 999;
+}
 /* —————————————— Galleries —————————————— */
 
 .gallery-gallery p,
@@ -477,6 +487,7 @@ footer .grid-container {grid-template-columns: repeat(12, 1fr);; grid-template-r
 footer .left {grid-area: 1 / 1 / 2 / 6}
 footer .right {grid-area: 1 / 6 / 2 / 13}
 .footer-columns {column-count: 1}
+.gallery-post p img:hover {width: 100%; margin-left: 0}
 .offset {width: 100%; margin-left: 0;}
 }
 @media (max-width: 780px) {
