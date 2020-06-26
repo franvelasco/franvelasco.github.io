@@ -511,3 +511,29 @@ footer .grid-container {grid-template-columns: 1fr; grid-template-rows: 1fr;}
 footer .left {grid-area: 1 / 1 / 2 / 2}
 footer .right {grid-area: 2 / 1 / 3 / 2}
 }
+
+@media (prefers-color-scheme: light) {
+  
+:root {
+  /* body */
+  --c-bg: #d3dfdf;
+  --c-text: #333;
+  --c-detail: #296969;
+  --c-bgfade: #66666614;
+  --c-catpost: #33333340;
+  /* categories */
+  --c-culture: #57affb;
+  --c-gallery: #ff7a7a;
+  --c-music: #ffc861;
+  --c-photo: #47d781;
+  --c-photoessay: #faa27a;
+  --c-travel: #ff8fe0;
+  --c-writing: #3ce0ed;
+}
+
+.logo {
+  filter: invert(1);
+  opacity: .8
+}
+
+
