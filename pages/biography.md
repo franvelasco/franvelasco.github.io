@@ -1,5 +1,5 @@
 ---
-layout: page-light
+layout: page
 title: Biography
 permalink: /biography/
 excerpt: (Almost) everything about me.

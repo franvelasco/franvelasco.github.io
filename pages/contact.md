@@ -1,5 +1,5 @@
 ---
-layout: page-light
+layout: page
 title: Contact
 permalink: /contact/
 

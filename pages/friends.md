@@ -1,5 +1,5 @@
 ---
-layout: page-light
+layout: page
 title: Friends
 permalink: /friends/
 

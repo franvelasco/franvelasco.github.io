@@ -1,5 +1,5 @@
 ---
-layout: page-light
+layout: page
 title: Colophon
 permalink: /colophon/
 excerpt: Technical and geeky info.
