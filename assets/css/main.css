@@ -246,7 +246,8 @@ footer .left a:hover {
   column-count: 2;
 }
 .footer-columns ul {
-  padding-top: .1px;
+  margin: 0;
+  padding-top: 1em;
   break-inside: avoid;
 }
 .footer-columns h3 {
