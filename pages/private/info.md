@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Information
-permalink: /x/
+permalink: /x
 excerpt: A little bit of personal info.
 ---
 
@@ -62,12 +62,11 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 
 
 
-<input type="checkbox" id="Bucket List">
-<label for="Bucket List"><h1>Bucket List</h1></label>
+<input type="checkbox" id="BucketList">
+<label for="BucketList"><h1>Bucket List</h1></label>
 
 <div class="content" markdown="1">
-- [] Visit Chicago
-
+- [ ] Visit Chicago
 </div>
 
 </div>
