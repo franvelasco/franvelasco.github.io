@@ -58,7 +58,6 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 [Right now](https://www.last.fm/user/efless){:target="_blank"}, I'm probably playing some soundtrack, Mac Miller, Jim Guthrie, Austin Wintory or Smashing Pumpkins. I keep waiting on a new A Wilhelm Scream album.
 </div>
 
-</div>
 
 
 
@@ -66,9 +65,8 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 <label for="BucketList"><h1>Bucket List</h1></label>
 
 <div class="content" markdown="1">
-Visit Chicago
-
-Design something for Nike
+- [ ] Visit Chicago
+- [ ] Design something for Nike
 </div>
 
 </div>
