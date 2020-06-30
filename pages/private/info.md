@@ -66,7 +66,9 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 <label for="BucketList"><h1>Bucket List</h1></label>
 
 <div class="content" markdown="1">
+
 - [ ] Visit Chicago
+
 </div>
 
 </div>
