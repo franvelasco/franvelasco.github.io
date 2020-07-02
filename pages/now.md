@@ -8,7 +8,7 @@ excerpt: This is my life right now.
 
 
 
-Looking for new projects at [Efless](https://efless.co){:target="blank"}. Hey, [I'm available to hire!](https://efless.co/contact){:target="blank"}
+Looking for new projects at [Efless](https://efless.co){:target="blank"}. Hey, [I'm available to hire!](mailto:hi@efless.co){:target="blank"}
 
 ---
 
