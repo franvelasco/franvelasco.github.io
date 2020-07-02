@@ -26,18 +26,20 @@
   --c-bgfade: #ffffff10;
   --c-catpost: #ffffff35;
   /* background colors */
-  --b-gallery: #2f373d;
-  --b-page: #182022;
-  --b-photoessay: #2e3030;
-  --b-post: #323434;
+  --b-gallery: hsl(200 20% 15%);
+  --b-page: hsl(200 65% 10%);
+  --b-photoessay: hsl(200 10% 10%);
+  --b-post: hsl(200 10% 20%);
   /* categories */
-  --c-culture: #98cfff;
-  --c-gallery: #ffb1b1;
-  --c-music: #ffedae;
-  --c-photo: #adf5ca;
-  --c-photoessay: #f6bfa6;
-  --c-travel: #ffc6ef;
-  --c-writing: #bafaff;
+  --c-saturation: 50%;
+  --c-luminosity: 75%;
+  --c-culture: hsl( 0, var(--c-saturation), var(--c-luminosity));
+  --c-gallery: hsl( 51, var(--c-saturation), var(--c-luminosity));
+  --c-music: hsl( 102, var(--c-saturation), var(--c-luminosity));
+  --c-photo: hsl( 153, var(--c-saturation), var(--c-luminosity));
+  --c-photoessay: hsl( 204, var(--c-saturation), var(--c-luminosity));
+  --c-travel: hsl( 255, var(--c-saturation), var(--c-luminosity));
+  --c-writing: hsl( 306, var(--c-saturation), var(--c-luminosity));
 }
 
 body {
@@ -68,6 +70,8 @@ body {
   font-family: var(--f-header), sans-serif;
   font-weight: 400;
 }
+
+.profile-blue {display: none}
 
 
 /* —————————————— Typography —————————————— */
@@ -128,9 +132,15 @@ hr {
 header {
   padding: 20px 0 130px 0;
 }
-.logo {
+header svg {
+  fill: var(--c-text);
+  width: 45px;
   height: 45px;
 }
+header svg:hover {
+  fill: var(--c-detail);
+}
+
 
 /* —————————————— Accordion —————————————— */
 
@@ -246,7 +256,8 @@ footer .left a:hover {
   column-count: 2;
 }
 .footer-columns ul {
-  padding-top: .1px;
+  margin: 0;
+  padding-top: 1em;
   break-inside: avoid;
 }
 .footer-columns h3 {
@@ -264,7 +275,6 @@ footer ul li {
 }
 footer .dot {
   font-size: 65%;
-  vertical-align: text-bottom;
 }
 .Writing {
   color: var(--c-writing);
@@ -305,7 +315,6 @@ footer .dot {
   content: ' Travel';
   font-size: 65%;
   color: var(--c-travel);
-  vertical-align: 1px;
 }
 .Culture {
   color: var(--c-culture);
@@ -314,7 +323,6 @@ footer .dot {
   content: ' Culture';
   font-size: 65%;
   color: var(--c-culture);
-  vertical-align: 1px;
 }
 .Music {
   color: var(--c-music);
@@ -323,7 +331,6 @@ footer .dot {
   content: ' Music';
   font-size: 65%;
   color: var(--c-music);
-  vertical-align: 1px;
 }
 .Gallery {
   color: var(--c-gallery);
@@ -332,7 +339,6 @@ footer .dot {
   content: ' Gallery';
   font-size: 65%;
   color: var(--c-gallery);
-  vertical-align: 1px;
 }
 .blog-title-column h1,
 .blog-title-column td {
@@ -536,24 +542,18 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
   /* body */
   --c-bg: #fff4f0;
   --c-text: #333;
-  --c-detail: #296969;
+  --c-detail: #333333bb;
   --c-bgfade: #66666614;
   --c-catpost: #33333340;
   /* background colors */
-  --b-gallery: #d7d4cd;
-  --b-page: #e4f7f7;
-  --b-photoessay: #f5f5f5;
-  --b-post: #fff8e2;
+  --b-gallery: hsl(50 10% 90%);
+  --b-page: hsl(50 100% 97%);
+  --b-photoessay: hsl(0 0% 95%);
+  --b-post: hsl(180 90% 95%);
   /* categories */
-  --c-culture: #57affb;
-  --c-gallery: #ff7a7a;
-  --c-music: #ffc861;
-  --c-photo: #47d781;
-  --c-photoessay: #faa27a;
-  --c-travel: #ff8fe0;
-  --c-writing: #3ce0ed;
+  --c-saturation: 80%;
+  --c-luminosity: 65%;
 }
-
-.logo {filter: invert(1); opacity: .8}
-
+.profile-pink {display: none}
+.profile-blue {display: initial}
 }

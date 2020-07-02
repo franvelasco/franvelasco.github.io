@@ -1,5 +1,5 @@
 ---
-layout: page-light
+layout: page
 title: Information
 permalink: /private/info/
 excerpt: A little bit of personal info.
