@@ -552,7 +552,7 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
   --b-post: hsl(180 90% 95%);
   /* categories */
   --c-saturation: 80%;
-  --c-luminosity: 65%;
+  --c-luminosity: 70%;
 }
 .profile-pink {display: none}
 .profile-blue {display: initial}
