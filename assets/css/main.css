@@ -308,7 +308,7 @@ footer .dot {
   font-size: 65%;
   color: var(--c-photoessay);
 }
-.Travel, .Travel-link a {
+.Travel, .Travel-link p a {
   color: var(--c-travel);
 }
 .Travel-fx:hover::after {
