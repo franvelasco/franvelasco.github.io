@@ -549,7 +549,7 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
   --b-gallery: hsl(50 10% 90%);
   --b-page: hsl(25 80% 95%);
   --b-photoessay: hsl(0 0% 95%);
-  --b-post: hsl(180 90% 95%);
+  --b-post: hsl(50 90% 97%);
   /* categories */
   --c-saturation: 80%;
   --c-luminosity: 70%;
