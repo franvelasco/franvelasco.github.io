@@ -31,16 +31,13 @@
   --b-photoessay: hsl(200 10% 10%);
   --b-post: hsl(200 10% 20%);
   /* categories */
-  --c-hue: 70;
-  --c-saturation: 60%;
-  --c-luminosity: 70%;
-  --c-culture: hsl( var(--c-hue), var(--c-saturation), var(--c-luminosity));
-  --c-gallery: hsl( calc( var(--c-hue) + 50 ), var(--c-saturation), var(--c-luminosity));
-  --c-music: hsl( calc( var(--c-hue) + 100 ), var(--c-saturation), var(--c-luminosity));
-  --c-photo: hsl( calc( var(--c-hue) + 150 ), var(--c-saturation), var(--c-luminosity));
-  --c-photoessay: hsl( calc( var(--c-hue) + 200 ), var(--c-saturation), var(--c-luminosity));
-  --c-travel: hsl( calc( var(--c-hue) + 250 ), var(--c-saturation), var(--c-luminosity));
-  --c-writing: hsl( calc( var(--c-hue) + 300 ), var(--c-saturation), var(--c-luminosity));
+  --c-culture: #98cfff;
+  --c-gallery: #ffb1b1;
+  --c-music: #f6bfa6;
+  --c-photo: #adf5ca;
+  --c-photoessay: #ffedae;
+  --c-travel: #ffc6ef;
+  --c-writing: #bafaff;
 }
 
 body {
@@ -552,9 +549,13 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
   --b-photoessay: hsl(0 0% 95%);
   --b-post: hsl(50 100% 95%);
   /* categories */
-  --c-hue: 90;
-  --c-saturation: 45%;
-  --c-luminosity: 60%;
+  --c-culture: #57affb;
+  --c-gallery: #ff7a7a;
+  --c-music: #faa27a;
+  --c-photo: #47d781;
+  --c-photoessay: #ffc861;
+  --c-travel: #ff8fe0;
+  --c-writing: #3ce0ed;
 }
 .profile-pink {display: none}
 .profile-blue {display: initial}
