@@ -2,7 +2,7 @@
 layout:		gallery
 title:		Cartagena
 date:		2020-06-27
-permalink: 	/gallery/cartagena/
+permalink: 	/post/cartagena/
 categories:	Gallery
 
 excerpt: 	A walk under the sun in the legendary city.
