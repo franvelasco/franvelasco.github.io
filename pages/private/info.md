@@ -65,8 +65,10 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 <label for="BucketList"><h1>Bucket List</h1></label>
 
 <div class="content" markdown="1">
-- [ ] Visit Chicago
-- [ ] Design something for Nike
+- Visit Chicago
+- Design something for Nike
+- ~~Having a son~~
+- Having two sons
 </div>
 
 </div>
