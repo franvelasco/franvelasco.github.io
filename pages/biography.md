@@ -74,7 +74,7 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 <div class="content" markdown="1">
 - Visit Chicago
 - Design something for Nike
-- ~Having a son~~
+- ~~Having a son~~
 - Having two sons
 </div>
 
