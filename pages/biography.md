@@ -7,8 +7,6 @@ excerpt: (Not) everything about me.
 
 I'm a happy regular family guy with a ton of interests that come and go as time goes by. That's why I refuse to describe myself using my job and the reason I've split this page into small pieces. Please, take a look at any of them or even all of them if you feel like it.
 
-## This is a work in progress, so come back soon as I'll be adding info as days go by.
-
 <br><br>
 
 
@@ -74,10 +72,14 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 <div class="content" markdown="1">
 - Visit Chicago
 - Design something for Nike
-- ~~Having a son~~
+- ~Having a son~~
 - Having two sons
 </div>
 
 </div>
 
+
+<br><br>
+
+## This is a work in progress, so come back soon as I'll be adding info as days go by.
 
