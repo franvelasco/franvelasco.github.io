@@ -1,23 +1,14 @@
 ---
-layout:		post
+layout:		gallery
 title:		Cartagena
 date:		2020-06-27
-permalink: 	/post/cartagena/
-categories:	Travel
+permalink: 	/gallery/cartagena/
+categories:	Gallery
 
 excerpt: 	A walk under the sun in the legendary city.
 info-place: Murcia, Spain
 img-name:	cartagena
 ---
-
-Cartagena is a city located in Murcia, south-east of Spain. It's been there for more than two thousand years and that's all I'm going to write to describe it. There's a lot of other fun trivia you can [read here][cartagena]{:target="_blank"} if you have a minute.
-
-To me, it's a beautiful place to visit every single time we go on holidays to [La Manga](../../gallery/minor-larger/). You can have a peacefull walk in its streets, full of an amazing architecture and historic sites, such as *The Roman Theatre of Carthago Nova* or the art-nuveau building *The Gran Hotel*. Once you arrive to the coast you find the port, full of little ships I'd love to sail for a day in those clear waters.
-
-One of the our favorite places to eat is [D'Almansa][d'almansa]{:target="blank"}. The restaurant was placed in La Manga, but in 2015 they moved to Cartagena so we kept going there for the amazing food they serve. If you have a chance, try the caramelized eggplant and you'll be coming there over and over.
-
-[cartagena]: https://en.wikipedia.org/wiki/Cartagena,_Spain
-[d'almansa]: https://www.restaurantes.com/restaurante-dalmansa
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
@@ -29,13 +20,11 @@ One of the our favorite places to eat is [D'Almansa][d'almansa]{:target="blank"}
 ![]({% include hosted-img.html %}06.jpg)
 ![]({% include hosted-img.html %}07.jpg)
 ![]({% include hosted-img.html %}08.jpg)
-![]({% include hosted-img.html %}10.jpg){:.vertical}
-![]({% include hosted-img.html %}11.jpg){:.vertical}
 ![]({% include hosted-img.html %}09.jpg)
-![]({% include hosted-img.html %}12.jpg){:.vertical}
-![]({% include hosted-img.html %}13.jpg){:.vertical}
+![]({% include hosted-img.html %}10.jpg)
+![]({% include hosted-img.html %}11.jpg)
+![]({% include hosted-img.html %}12.jpg)
+![]({% include hosted-img.html %}13.jpg)
 ![]({% include hosted-img.html %}14.jpg)
 
 </div>
-
-###### Photographs taken using my battered Fuji X-T1 and a XF35mm F2, processed as Portra 400.

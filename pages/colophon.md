@@ -5,15 +5,11 @@ permalink: /colophon/
 excerpt: Technical and geeky info.
 ---
 
-# This is a work in progress. Updating.................
+# I've been coding HTML and CSS for fun since the days of Myspace and the free .tk domains. That means I'm no true professional altough I can do a little more beyond basic stuff. 
 
-<br>
+# Trying to get away from the slow and file-crammed Wordpress installations, I stumbled upon Jekyll, a SSG or Static Site Generator. It ticks all my needs for my basic sites, including the database-less-ness! 
 
-I've been coding HTML and CSS for fun since the days of Myspace and the free .tk domains. That means I'm no true professional altough I can do a little more beyond basic stuff. 
-
-Trying to get away from the slow and file-crammed Wordpress installations, I stumbled upon Jekyll, a SSG or Static Site Generator. It ticks all my needs for my basic sites, including the database-less-ness! 
-
-So here I am, trying to understand all of its posibilities to create a page where I can *own* my voice, my words and many of my photographs.
+# So here I am, trying to understand all of its posibilities to create a page where I can *own* my voice, my words and many of my photographs.
 
 <br>
 
@@ -44,3 +40,7 @@ Header texts use [Inter](https://rsms.me/inter/){:target="_blank"}, created by [
 ### Photography
 
 All photographs by me, unless another author is named.
+
+<br>
+
+###### This is a work in progress. Updating.................

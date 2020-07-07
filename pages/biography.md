@@ -5,9 +5,9 @@ permalink: /biography/
 excerpt: (Not) everything about me.
 ---
 
-I'm a happy regular family guy with a ton of interests that come and go as time goes by. That's why I refuse to describe myself using my job and the reason I've split this page into small pieces. Please, take a look at any of them or even all of them if you feel like it.
+# I'm a happy regular family guy with a ton of interests that come and go as time goes by. That's why I refuse to describe myself using my job and the reason I've split this page into small pieces. Please, take a look at any of them if you feel like it.
 
-<br><br>
+<br>
 
 
 <div class="accordion">
@@ -37,6 +37,48 @@ I take many photos (maybe too many) and sometimes I share them on [this blog]({{
 A few people have asked about the equipment I use, even if what i use is a film camera. Although it may seem so, I only shoot digital. Right now I am using a small Fujifilm X-T1 along with a 16mm f2.8, 23mm f1.4, 35mm f2 and 50mm f2 that I carry in a Billingham bag; and a Macbook Pro 13 "or iPad Pro 10.5 where I edit them using Lightroom CC.
 </div>
 
+
+
+<input type="checkbox" id="Travel">
+<label for="Travel"><h1>On Travelling</h1></label>
+
+<div class="content" markdown="1">
+Travel and photography have played an important role in my life since 2007. That year I bought my first DSLR camera and travelled alone to Tenerife in the summer. I was hooked by the way a camera makes you look at new places and I had that personal revelation where you realize that everything changes so fast. What you have in front of you may or may not be there tomorrow, places or people.
+
+Three years later I had an identity crisis and I wasn't happy with my life, so I quit my job and a couple weeks later I visited Japan. That travel opened my eyes and changed me forever. I focused on what I liked best, changed career, got rid of toxic people and never looked back. I still don't know why it happened, but I'm glad it did.
+
+When I came back from Japan, I was a happier guy, and a poorer one too. Travelling outside Spain was increasingly difficult for me, had to pay the bills and discovering new places was not a priority.
+
+In 2014 I started having a regular income –kind of– and then I met my wife Cecilia. We moved to Madrid and again had no money but for food. So we found new jobs and the rest is history.
+
+We've been visiting new and exiting cities around the world as often as possible, but we always want more. Having a child didn't stop us going to Berlin with a 5 months old Max or to Basel 3 months later.
+
+To this day, I have visited this places:
+
+### 2019  
+Berlin, Basel
+
+### 2018  
+Japan, London, Canterbury
+
+### 2017
+New York, Marrakech
+
+### 2016
+London, Singapore, Bangkok, Hong Kong, Basel
+
+### 2012
+Rome
+
+### 2011
+London
+
+### 2010
+Lisbon, Japan
+
+### 2009
+Rome, Naples, Pompeii
+</div>
 
 
 
@@ -70,16 +112,33 @@ Listen to my heavy usage playlists on [Spotify](https://open.spotify.com/user/ef
 <label for="BucketList"><h1>My Bucket List</h1></label>
 
 <div class="content" markdown="1">
-- Visit Chicago
-- Design something for Nike
-- ~~Having a son~~
-- Having two sons
-</div>
+
+This is a list of things I'd love to accomplish in this lifetime. The only rule here is that I can't delete anything here, just add more:
+
+- ● Having a son
+- ○ Design something for Nike
+- ○ Having one more son
+- ○ Visit Chicago  
+- ● Visit New York  
+- ○ Come back to New York  
+- ● Visit Rome  
+- ○ Come back to Rome  
+- ● Visit Paris 
+- ○ Come back to Paris
+- ○ Travel a few USA National Parks
+- ○ Travel Canadian National Parks
+- ○ Travel the Big Sur driving a muscle car
+- ○ Release the Orpin Type Foundry
+- ○ Sell a font for 10€+
+- ○ Publish a book (of any kind)
+- ○ Release music on vynil
 
 </div>
 
+</div>
 
-<br><br>
+
+<br>
 
 ## This is a work in progress, so come back soon as I'll be adding info as days go by.
 

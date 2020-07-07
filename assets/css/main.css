@@ -582,7 +582,7 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
 
 :root {
   /* body */
-  --c-body: #feddcd;;
+  --c-body: #feddcd;
   --c-text: #333;
   --c-detail: #333333bb;
   --c-bgfade: #66666614;
