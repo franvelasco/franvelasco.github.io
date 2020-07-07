@@ -190,9 +190,7 @@ header svg:hover {
   max-width: 700px;
   border-bottom: 1px solid var(--c-catpost);
 }
-.accordion h1 {
-  margin-bottom: 5px !important;
-}
+
 .accordion input {
   display: none;
 }
@@ -229,6 +227,22 @@ header svg:hover {
 
 .accordion input:checked + label + .content {
   display: block;
+}
+
+
+/* —————————————— Now —————————————— */
+
+.now-img:nth-child(odd) {
+ width: calc(50% - 76px);
+ padding: 30px;
+ background: white;
+ float: none;
+}
+.now-img:nth-child(even) {
+ width: calc(50% - 76px);
+ padding: 30px;
+ background: white;
+ float: right;
 }
 
 
