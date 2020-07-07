@@ -117,6 +117,7 @@ This is a list of things I'd love to accomplish in this lifetime. The only rule 
 
 - ● Having a son
 - ○ Design something for Nike
+- ○ Land a 5000€+ commission
 - ○ Land a 10000€+ commission
 - ○ Having one more son
 - ○ Visit Chicago  
