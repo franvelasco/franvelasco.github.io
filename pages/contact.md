@@ -11,9 +11,9 @@ excerpt: I'm everywhere.
 
 <ul class="category">
   <li><a href="mailto:f@franvelas.co" target="_blank">Email<span class="info">f@franvelas.co</span></a></li>
-  <li><a href="https://linkedin.com/in/franvelasco" target="_blank">Linkedin<span class="info">/franvelasco</span></a></li>
   <li><a href="https://instagram.com/franvelas.co" target="_blank">Instagram<span class="info">@franvelas.co</span></a></li>
-  <li><a href="https://soundcloud.com/franvelasco" target="_blank">SoundCloud<span class="info">/franvelas.co</span></a></li>
+  <li><a href="https://linkedin.com/in/franvelasco" target="_blank">Linkedin<span class="info">@franvelasco</span></a></li>
+  <li><a href="https://soundcloud.com/franvelasco" target="_blank">SoundCloud<span class="info">@franvelasco</span></a></li>
 </ul>
 
 <br><br>
