@@ -46,4 +46,4 @@ Playing *Spider-Man* on PS4 and *Metroid: Samus Returns* on Nintendo 3DS.
 
 <br>
 
-###### Last update: 7th of July, 2020.
+###### Last update: 13th of July, 2020.
