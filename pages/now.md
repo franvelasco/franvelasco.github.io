@@ -14,6 +14,10 @@ Looking for new projects at [Efless](https://efless.co){:target="blank"}. Hey, [
 
 ---
 
+Organizing [my Spotify playlists](https://open.spotify.com/user/efless){:target="blank"} to offer you a better experience.
+
+---
+
 Planning short trips to *La Manga* and *Asturias*.
 
 ---
