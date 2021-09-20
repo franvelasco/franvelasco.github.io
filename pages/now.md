@@ -41,7 +41,6 @@ Waiting for *Nine Perfect Strangers* finale. Binging *Sex Education*, and watchi
 ![](../assets/now/tv-next.jpg){:.now-img}
 -->
 
-
 ---
 Playing *Nothing* but missing *Metroid: Samus Returns* on Nintendo 3DS.
 
