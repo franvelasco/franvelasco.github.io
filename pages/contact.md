@@ -18,13 +18,13 @@ excerpt: I'm everywhere.
 
 <br><br>
 
-# Or as my design studio called Efless:
+# Or as my design studio called Seabell Studio:
 
 <ul class="category">
-  <li><a href="mailto:hi@efless.co" target="_blank">Email<span class="info">hi@efless.co</span></a></li>
-  <li><a href="https://efless.co" target="_blank">Website<span class="info">efless.co</span></a></li>
-  <li><a href="https://behance.net/efless" target="_blank">Behance<span class="info">@efless</span></a></li>
-  <li><a href="https://instagram.com/efless" target="_blank">Instagram<span class="info">@efless</span></a></li>
-  <li><a href="https://dribbble.com/efless" target="_blank">Dribbble<span class="info">@efless</span></a></li>
-  <li><a href="https://soundcloud.com/efless" target="_blank">Twitter<span class="info">@efless</span></a></li>
+  <li><a href="mailto:fran@seabell.studio" target="_blank">Email<span class="info">fran(at)seabell.studio</span></a></li>
+  <li><a href="https://seabell.studio" target="_blank">Website<span class="info">seabell.studio</span></a></li>
+  <li><a href="https://behance.net/seabellstudio" target="_blank">Behance<span class="info">@seabellstudio</span></a></li>
+  <li><a href="https://instagram.com/seabellstudio" target="_blank">Instagram<span class="info">@seabellstudio</span></a></li>
+  <li><a href="https://dribbble.com/seabellstudio" target="_blank">Dribbble<span class="info">@seabellstudio</span></a></li>
+  <li><a href="https://twitter.com/seabellstudio" target="_blank">Twitter<span class="info">@seabellstudio</span></a></li>
 </ul>
