@@ -593,7 +593,7 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
 }
 
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
 
 :root {
   /* body */
@@ -624,6 +624,6 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
     background-repeat: no-repeat;
   }
 }
-.profile-pink {display: none}
-.profile-blue {display: initial}
+.profile-blue {display: none}
+.profile-pink {display: initial}
 }
