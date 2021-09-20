@@ -18,7 +18,11 @@ Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam
 
 ---
 
-Learning to use *Jekyll* and *Github* to make this site bigger and better.
+Trying to figure out a an illustration style as a hobby.
+
+---
+
+Culling a few thousand photographs from the last 12+ months.
 
 ---
 
