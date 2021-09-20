@@ -13,10 +13,6 @@ img-name:	backyard
 
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-![]({% include hosted-img.html %}24.jpg)
-![]({% include hosted-img.html %}23.jpg)
-![]({% include hosted-img.html %}22.jpg)
-![]({% include hosted-img.html %}21.jpg)
 ![]({% include hosted-img.html %}20.jpg)
 ![]({% include hosted-img.html %}19.jpg)
 ![]({% include hosted-img.html %}18.jpg)
