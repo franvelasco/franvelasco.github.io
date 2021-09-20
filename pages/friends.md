@@ -11,7 +11,9 @@ excerpt: Real and virtual people. All together.
 
 <ul class="category">
   <li><a href="http://alejandrobasteiro.es" target="_blank">Alejandro Basteiro<span class="info">alejandrobasteiro.es</span></a></li>
+  <li><a href="http://arun.is" target="_blank">Arun Venkatesan<span class="info">arun.is</span></a></li>
   <li><a href="https://frankchimero.com" target="_blank">Frank Chimero<span class="info">frankchimero.com</span></a></li>
+  <li><a href="https://moderndifferent" target="_blank">Juris Kristobans<span class="info">moderndifferent.com</span></a></li>
   <li><a href="https://manuelmoreale.com" target="_blank">Manuel Moreale<span class="info">manuelmoreale.com</span></a></li>
   <li><a href="https://matthewsmith.website" target="_blank">Matthew Smith<span class="info">matthewsmith.website</span></a></li>
 
