@@ -88,14 +88,14 @@ body {
 @supports (height: 100vh) { 
   body{ 
     background: linear-gradient(to right top, #ffffff15 45%, #ffffff50 50%, #00000000 50%);
-    background-size: 100% calc(100% - 100vh + 3px);
+    background-size: 100% calc(100% - 100vh + 2px);
     background-repeat: no-repeat;
   }
 
   body:before {
     content:'';
     position: fixed;
-    top: 3px;
+    top: 2px;
     left: 0;
     bottom: 0;
     width: 100%;
