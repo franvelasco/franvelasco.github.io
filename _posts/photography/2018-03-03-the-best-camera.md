@@ -18,13 +18,13 @@ This Saturday I had to walk the dog of my in-laws –a labrador retriever called
 
 ![]({% include hosted-img.html %}01.jpg){:.vertical}
 ![]({% include hosted-img.html %}02.jpg){:.vertical}
-![]({% include hosted-img.html %}03.jpg){:.vertical}
+![]({% include hosted-img.html %}03.jpg)
 ![]({% include hosted-img.html %}04.jpg){:.vertical}
 ![]({% include hosted-img.html %}05.jpg){:.vertical}
-![]({% include hosted-img.html %}06.jpg){:.vertical}
+![]({% include hosted-img.html %}06.jpg)
 ![]({% include hosted-img.html %}07.jpg){:.vertical}
 ![]({% include hosted-img.html %}08.jpg){:.vertical}
-![]({% include hosted-img.html %}09.jpg){:.vertical}
+![]({% include hosted-img.html %}09.jpg)
 
 </div>
 

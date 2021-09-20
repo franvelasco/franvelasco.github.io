@@ -20,16 +20,16 @@
   --f-header: "Inter", sans-serif;
   --f-text: "Libre Baskerville", serif;
   /* body */
-  --c-body: #091f2A;
+  --c-body: #1a1c1b;
   --c-text: white;
-  --c-detail: #cff;
+  --c-detail: #ffedae;
   --c-bgfade: #ffffff10;
   --c-catpost: #ffffff35;
   /* background colors */
   --b-gallery: #1f292e;
-  --b-page: #091f2A;
+  --b-page: #1a1c1b;
   --b-photoessay: #171a1c;
-  --b-post: #2e3538;
+  --b-post: #1a1c1b;
   /* categories */
   --c-culture: #98cfff;
   --c-gallery: #ffb1b1;
@@ -72,9 +72,12 @@ body {
   -webkit-text-size-adjust: 100%;
   font-family: var(--f-header), sans-serif;
   font-weight: 400;
+  transition: .25s ease-in-out;
 }
 
 .profile-blue {display: none}
+
+.profile-blue, .profile-pink {filter: saturate(0%);}
 
 
 /* —————————————— Scroller —————————————— */
@@ -142,6 +145,7 @@ p a, p a:visited {
   color: var(--c-detail);
   font-family: var(--f-text);
   font-style: italic;
+  border-bottom: 1px dashed var(--c-detail);
 }
 
 p a:hover {
@@ -415,7 +419,6 @@ footer .dot {
   outline-style: none;
 }
 .news-field:focus {
-  background-color: var(--c-text);
   width: 80%;
 }
 ::placeholder {
@@ -462,6 +465,9 @@ img .img100 {
   width: 50%;
   float: left;
   font-size: 14px;
+}
+.post-navigation a:hover {
+  letter-spacing: 2px;
 }
 .post-navigation .next {
   text-align: right;
