@@ -592,10 +592,10 @@ footer .left {grid-area: 1 / 1 / 2 / 2}
 footer .right {grid-area: 2 / 1 / 3 / 2}
 }
 
-/*
-@media (prefers-color-scheme: light) {
 
-:rootZZZ {
+@media (prefers-color-scheme: dark) {
+
+:root {
   /* body */
   --c-body: #fff;
   --c-text: #333;
@@ -616,7 +616,6 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
   --c-travel: #ff8fe0;
   --c-writing: #3ce0ed;
 }
-*/
 
 @supports (height: 100vh) { 
   body{ 
