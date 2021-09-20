@@ -10,15 +10,11 @@ excerpt: This is my life right now.
 
 <br>
 
-Looking for new projects at [Efless](https://efless.co){:target="blank"}. Hey, [I'm available to hire!](mailto:hi@efless.co){:target="blank"}
+Always looking for new projects at [Seabell Studio](https://seabell.studio){:target="blank"}. Hey, [I'm available to hire!](mailto:fran@seabell.studio){:target="blank"}
 
 ---
 
-Organizing [my Spotify playlists](https://open.spotify.com/user/efless){:target="blank"} to offer you a better experience.
-
----
-
-Planning short trips to *La Manga* and *Asturias*.
+Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam
 
 ---
 
@@ -26,24 +22,23 @@ Learning to use *Jekyll* and *Github* to make this site bigger and better.
 
 ---
 
-Watching my son *Max*'s first steps and babblings.
+Adjusting to the new schedule now that *Max* is at the kindergarten while working and taking care of *Oli* at home.
 
 ---
 
-Just finished *Modern Family*. Looking for a new series to binge.
-<!--
+Reading *Axhalation* by Ted Chiang, and *Akira* by Katsuhiro Otomo.
+
+---
+
+Waiting for *Nine Perfect Strangers* finale. Binging *Sex Education*, and watching *Masters of the Universe* and *Marvel's What If...?*.
+
 ![](../assets/now/tv-now.jpg){:.now-img}
 ![](../assets/now/tv-next.jpg){:.now-img}
--->
+
 
 ---
-
-Reading *Inspiration is the Process* by *House Industries*.
-
----
-
-Playing *Spider-Man* on PS4 and *Metroid: Samus Returns* on Nintendo 3DS.
+Playing *Nothing* but missing *Metroid: Samus Returns* on Nintendo 3DS.
 
 <br>
 
-###### Last update: 13th of July, 2020.
+###### Last update: 20th of September, 2021.
