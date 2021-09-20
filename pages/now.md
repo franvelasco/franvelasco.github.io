@@ -14,7 +14,7 @@ Always looking for new projects at [Seabell Studio](https://seabell.studio){:tar
 
 ---
 
-Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam
+Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam.
 
 ---
 
