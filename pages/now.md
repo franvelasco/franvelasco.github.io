@@ -36,8 +36,10 @@ Reading *Axhalation* by Ted Chiang, and *Akira* by Katsuhiro Otomo.
 
 Waiting for *Nine Perfect Strangers* finale. Binging *Sex Education*, and watching *Masters of the Universe* and *Marvel's What If...?*.
 
-![](../assets/now/tv-now.jpg){:.now-img}
+<!--!
+[](../assets/now/tv-now.jpg){:.now-img}
 ![](../assets/now/tv-next.jpg){:.now-img}
+-->
 
 
 ---
