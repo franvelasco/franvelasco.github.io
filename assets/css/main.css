@@ -1,4 +1,9 @@
 @font-face {
+  font-family: "Overpass";
+  src: url(../fonts/Overpass-SemiBold.ttf);
+  font-display: swap;
+}
+@font-face {
   font-family: "Inter";
   src: url(../fonts/Inter-Regular.woff2);
   font-display: swap;
@@ -17,7 +22,7 @@
 
 :root {
   /* fonts */
-  --f-header: "Inter", sans-serif;
+  --f-header: "Overpass", "Inter", sans-serif;
   --f-text: "Libre Baskerville", serif;
   /* body */
   --c-body: #091f2A;
