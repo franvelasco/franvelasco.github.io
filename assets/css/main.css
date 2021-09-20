@@ -79,7 +79,7 @@ body {
   font-weight: 400;
 }
 
-.profile-blue {display: none}
+.profile-blue {display: none; filter: grayscale(100%);}
 
 
 /* —————————————— Scroller —————————————— */
@@ -561,7 +561,7 @@ p img {
 }
 
 
-/* —————————————— Media quieries —————————————— */
+/* —————————————— Media queries —————————————— */
 
 @media (max-width: 1024px) {
 .body {max-width: 600px !important}
