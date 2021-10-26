@@ -18,6 +18,8 @@ The first time I sat down to watch the series grow to 40-50 images, something cl
 
 A few months later, one of my favorite photographers, Matt Day, published this video where he addresses the subject from a point of view that gradually became more obvious to me: being present, something that is achieved by integrating the camera into your routine, shooting intuitively and more importantly, keeping the machine close by always. Now everything fit together, I think for me it was the missing piece to finish assembling the whole puzzle that I had in my head. In a very simple way, he explained how to do it, the mentality behind it, the reasons and the motivation that led him to document his own life. Having both a boy and a girl at home caused me even more empathy, everything in that video is strangely close to me.
 
+https://www.youtube.com/watch?v=vSjkBZkEilE
+
 Soon after, I discovered Linda McCartney's work with her family. Thousands of photos of Paul and his children in unspecial or unattractive moments, but that speak to me directly from the heart. If you do not know that part of her work, look for it and take a look because it is worth it. And from there I have jumped to a few, not many, photographers who are documenting their lives, trips, families, day to day. The last one I follow is Life, Unintended.
 
 That is why I have written this piece of text, because it does not seem that there are many people willing to share that part of their lives. I do not do it, I do not publish mine, and I find it very brave to do so. But being so private, it's totally respectable.
