@@ -28,7 +28,7 @@
   /* body */
   --c-body: #050905;
   --c-text: white;
-  --c-detail: #bcb;
+  --c-detail: #e44e31;
   --c-bgfade: #ffffff10;
   --c-catpost: #ffffff35;
   /* background colors */
@@ -780,7 +780,7 @@ footer .right {grid-area: 2 / 1 / 3 / 2}
   /* body */
   --c-body: #fff;
   --c-text: #333;
-  --c-detail: #333333bb;
+  --c-detail: #e44e31;
   --c-bgfade: #66666614;
   --c-catpost: #33333340;
   /* background colors */
