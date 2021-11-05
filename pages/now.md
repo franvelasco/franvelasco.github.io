@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Now
-permalink: /now/
-
-excerpt: This is my life right now.
+layout:		page
+title:		Now
+permalink:	/now/
+excerpt:	This is my life right now.
 ---
+
 
 # If you're wondering what's on my head these days, this is it.
 
@@ -18,7 +18,7 @@ Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam.
 
 ---
 
-Trying to figure out a an illustration style as a hobby.
+Trying to figure out a new hobby.
 
 ---
 
@@ -34,15 +34,11 @@ Reading *Axhalation* by Ted Chiang, and *Akira* by Katsuhiro Otomo.
 
 ---
 
-Waiting for *Nine Perfect Strangers* finale. Binging *Sex Education*, and watching *Masters of the Universe* and *Marvel's What If...?*.
-
-<!--!
-[](../assets/now/tv-now.jpg){:.now-img}
-![](../assets/now/tv-next.jpg){:.now-img}
--->
+Looking for a good series to binge.
 
 ---
-Playing *Nothing* but missing *Metroid: Samus Returns* on Nintendo 3DS.
+
+Playing *Nothing* but still missing *Metroid: Samus Returns* on Nintendo 3DS.
 
 <br>
 

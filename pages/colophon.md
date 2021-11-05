@@ -1,9 +1,10 @@
 ---
-layout: page
-title: Colophon
-permalink: /colophon/
-excerpt: Technical and geeky info.
+layout:		page
+title:		Colophon
+permalink:	colophon/
+excerpt:	Technical and geeky info.
 ---
+
 
 # I've been coding HTML and CSS for fun since the days of Myspace and the free .tk domains. That means I'm no true professional altough I can do a little more beyond basic stuff. 
 
@@ -24,6 +25,8 @@ Thinking of a better layout for the [Journal](/journal) page. Suggestions accept
 This site is written in HTML + CSS and delivered using [Jekyll](https://jekyllrb.com/){:target="_blank"}, a Static Site Generator. No JavaScript, PHP or any other language is used.
 
 I wrote most of the code from scratch in Markdown using the old trial and error method on [Sublime Text](https://www.sublimetext.com/){:target="_blank"}. 
+
+Lightbox was taken from the [Jekyll Codex](https://jekyllcodex.org/without-plugin/lightbox/#), a great place to expand the possibilities without messing around with plugins.
 
 The files are hosted on [Github](https://github.com/franvelasco/franvelasco.github.io){:target="_blank"} and the photographs live in [Namecheap](https://namecheap.com){:target="_blank"}
 

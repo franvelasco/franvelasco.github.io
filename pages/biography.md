@@ -5,6 +5,7 @@ permalink: /biography/
 excerpt: (Not) everything about me.
 ---
 
+
 # I'm a happy regular family guy with a ton of interests that come and go as time goes by. That's why I refuse to describe myself using my job and the reason I've split this page into small pieces. Please, take a look at any of them if you feel like it.
 
 <br>
@@ -18,11 +19,13 @@ excerpt: (Not) everything about me.
 <div class="content" markdown="1">
 In 2002 I started working as a creative in projects related to lettering, handlettering, calligraphy, editorial design, photography and video.
 
-In 2017, [Efless](http://efless.co){:target="_blank"} becomes my full-time studio where I continue to work with clients from all over the world, trying to improve and grow with each project.
+In 2017, Efless becomes my full-time studio where I continue to work with clients from all over the world, trying to improve and grow with each project.
 
 I have had the opportunity to collaborate with music bands such as Much The Same, Desakato, Escuela de Odio, Atzembla, Acid Mess, The Attack of the Brain Eaters and many more creating artworks, posters, logos, merch designs, promos or music videos; music festivals such as Resurrection Fest, Tsunami Xixon, Caudal Fest, O Son do Camiño or Castelo Rock; drawn a series of 40 Edelvives religion school book covers; designed garments for Sevenly, The Bee & The Fox, Pampling or HRB Movement; or creating letterings, handletterings and calligraphies for different media, such as The New York Times Magazine or JOIA Magazine.
 
-You can see my work on my website [Efless.co](http://efless.co){:target="_blank"} and in [Behance](http://behance.com/efless){:target="_blank "}, [Instagram](http://instagram.com/efless){: target =" _blank "} and [Dribbble](http://dribbble.com/efless){:target="_blank "}.
+On the last day of 2020 and as a reminder that not everything that happened in that awful year was forgetable, Efless was rebranded as Seabell Studio, laser focusing on branding and typography. I started selling my own fonts and 2021 was unarguably my best year as a freelance designer. I even landed my first +5000€ comission and started getting some recognition in the design world.
+
+You can see my work on the [Seabell Studio](http://seabell.studio){:target="_blank"} site and in [Behance](http://behance.com/seabellstudio){:target="_blank "}, [Instagram](http://instagram.com/seabellstudio){: target =" _blank "} and [Dribbble](http://dribbble.com/seabellstudio){:target="_blank "}.
 </div>
 
 
@@ -55,7 +58,10 @@ We've been visiting new and exiting cities around the world as often as possible
 
 To this day, I have visited this places:
 
-### 2019  
+#### 2021
+Porto, Coimbra
+
+#### 2019  
 Berlin, Basel
 
 ### 2018  
