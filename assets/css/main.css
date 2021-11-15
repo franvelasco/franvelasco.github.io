@@ -1,30 +1,38 @@
+
 @font-face {
-  font-family: "Inter";
-  src: url(../fonts/Inter-Regular.woff2);
-  font-display: swap;
+  font-family: "Thin";
+  src: url(../fonts/Inter-Light.woff2);
 }
 @font-face {
-  font-family: "Inter Bold";
+  font-family: "Regular";
+  src: url(../fonts/Inter-Regular.woff2);
+}
+@font-face {
+  font-family: "Bold";
   src: url(../fonts/Inter-Bold.woff2);
   font-style: bold;
-  font-display: swap;
 }
 @font-face {
-  font-family: "Libre Baskerville";
+  font-family: "Body";
   src: url(../fonts/LibreBaskerville-Regular.ttf);
-  font-display: swap;
 }
 @font-face {
-  font-family: "Libre Baskerville";
+  font-family: "Italic";
   src: url(../fonts/LibreBaskerville-Italic.ttf);
   font-style: italic;
+}
+@font-face {
+  text-rendering: optimizeLegibility;
   font-display: swap;
 }
 
 :root {
   /* fonts */
-  --f-header: "Inter", sans-serif;
-  --f-text: "Libre Baskerville", serif;
+  --f-thin: "Thin", sans-serif;
+  --f-regular: "Regular", sans-serif;
+  --f-bold: "Bold", sans-serif;
+  --f-body: "Body", sans-serif;
+  --f-italic: "Italic", sans-serif;
   /* body */
   --c-body: #050905;
   --c-text: white;
@@ -80,7 +88,7 @@ body {
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
-  font-family: var(--f-header), sans-serif;
+  font-family: var(--f-regular), sans-serif;
   font-weight: 400;
   transition: .25s ease-in-out;
 }
@@ -92,14 +100,23 @@ body {
 
 h1 {font-size: 22px}
 h2 {font-size: 18px; opacity: .6}
-h3 {font-size: 18px; opacity: .3}
-h6 {font-size: 14px; opacity: .45}
+h3 {font-size: 18px; opacity: .4}
+h4 {font-size: 16px; opacity: .4}
+h5 {font-size: 14px; opacity: .3}
+h6 {font-size: 12px; opacity: .3}
 
-p {font-family: var(--f-text) ;font-size: 18px; line-height: 1.8}
+p {
+  font-family: var(--f-body);
+  font-size: 18px;
+  line-height: 1.8
+}
 
-.gallery-post .small {max-width: var(--w-max);min-width: var(--w-min);}
+.gallery-post .small {
+  max-width: var(--w-max);
+  min-width: var(--w-min);
+}
 
-h1, h2, h3, h6, p, .small {max-width: var(--w-min)}
+h1, h2, h3, ,h4, h5, h6, p, .small {max-width: var(--w-min)}
 
 .right ul li {
   line-height: 1.75;
@@ -112,8 +129,7 @@ a {
 
 p a, p a:visited {
   color: var(--c-detail);
-  font-family: var(--f-text);
-  font-style: italic;
+  font-family: var(--f-italic);
 }
 
 p a:hover {
@@ -121,8 +137,7 @@ p a:hover {
 }
 
 p em, p i {
-  font-family: var(--f-text);
-  font-style: italic;
+  font-family: var(--f-italic);
 }
 
 blockquote h1 {
@@ -311,7 +326,7 @@ footer ul {
 footer ul li {
   overflow: hidden;
 }
-footer .dot {
+.dot {
   font-size: 70%;
 }
 .Writing, .Writing-link p a {
@@ -383,7 +398,7 @@ footer .dot {
   margin-bottom: 120px;
 }
 .post-contact p {
-  font-style: italic;
+  font-family: var(--f-italic);
 }
 
 
@@ -629,7 +644,7 @@ p img {
 
 .essay-title p {
   font-size: 50px;
-  font-style: italic;
+  font-family: var(--f-italic);
   line-height: 1;
   margin-bottom: 3vw;
 }
