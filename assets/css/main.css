@@ -105,7 +105,7 @@ h4 {font-size: 16px; opacity: .4}
 h5 {font-size: 14px; opacity: .3}
 h6 {font-size: 12px; opacity: .3}
 
-p {
+p, .lang {
   font-family: var(--f-body);
   font-size: 18px;
   line-height: 1.8
@@ -117,6 +117,8 @@ p {
 }
 
 h1, h2, h3, ,h4, h5, h6, p, .small {max-width: var(--w-min)}
+
+.right p, .right .lang {max-width: var(--w-min)}
 
 .right ul li {
   line-height: 1.75;
@@ -145,6 +147,10 @@ blockquote h1 {
   line-height: 1.2;
   margin-left: -100px;
   max-width: 600px;
+}
+
+.lang-selector {
+  cursor: pointer;
 }
 
 hr {
@@ -584,8 +590,8 @@ img .img100 {
 
 /* —————————————— Post galleries —————————————— */
 
-.gallery-post {
- width: 100%;
+.gallery-post, .gallery-page p img {
+ width: 100% !important;
 }
 .gallery-post p {
  padding: 50px 0;
