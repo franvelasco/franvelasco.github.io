@@ -38,7 +38,7 @@ Looking for a good series to binge.
 
 ---
 
-Playing *Nothing* but still missing *Metroid: Samus Returns* on Nintendo 3DS.
+Playing *nothing* but still missing *Metroid: Samus Returns* on Nintendo 3DS.
 
 <br>
 
