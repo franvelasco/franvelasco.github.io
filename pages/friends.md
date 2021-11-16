@@ -15,7 +15,7 @@ excerpt: Real and virtual people. All together.
   <a href="https://{{ friend.website }}" target="_blank">
     <li>
         <span class="title">{{ friend.name }}</span>
-        <span class="description">{{ friend.website }}</span>
+        <span class="info">{{ friend.website }}</span>
     </li>
   </a>
 {% endfor %}
