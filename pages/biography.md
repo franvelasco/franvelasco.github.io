@@ -92,7 +92,7 @@ Rome, Naples, Pompeii
 <label for="Music"><h1>On Music</h1></label>
 
 <div class="content" markdown="1">
-Back in 1995 I started playing bass and until 2013 I was making noise where they left us.
+Back in 1995 I started playing bass guitar on punk-rock bands and up to 2013, I've been making noise wherever I was allowed to.
 
 I've played and/or sung on Acid Rain, Bloodguts, Plan8, DinnerDog, Some Stuff, Bah-Zillions, Eleven Fingered Boy, The Rises, A Bleeding Hero and some other bands where I don't even remember what I was doing.
 
