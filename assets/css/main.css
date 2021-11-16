@@ -789,8 +789,7 @@ footer ul {font-size: 14px;}
 .category li .info {float: none; display: block;}
 }
 @media (max-width: 480px) {
-h3, p, .category li, li {font-size: 10px}
-.category li .number {float: left; width: 10%;}
+.category li .number {font-size: 10px; float: left; width: 10%;}
 .category li .title {float: right; width: 80%;}
 .category li .description {float: none; width: 75%; opacity: .3; font-size: 75%; text-align: right;}
 .category li .date {float: none; width: 25%; opacity: .3; font-size:75%; margin-right: 8px;}
