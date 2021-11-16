@@ -28,6 +28,9 @@ I really can't complain, it wasn't what I had in mind but better to enjoy the si
 [![]({% include hosted-img.html %}05.jpg)]({% include hosted-img.html %}05.jpg)
 [![]({% include hosted-img.html %}06.jpg)]({% include hosted-img.html %}06.jpg)
 [![]({% include hosted-img.html %}07.jpg)]({% include hosted-img.html %}07.jpg)
+[![]({% include hosted-img.html %}08.jpg)]({% include hosted-img.html %}08.jpg)
+[![]({% include hosted-img.html %}09.jpg)]({% include hosted-img.html %}09.jpg)
+[![]({% include hosted-img.html %}10.jpg)]({% include hosted-img.html %}10.jpg)
 
 </div>
 
