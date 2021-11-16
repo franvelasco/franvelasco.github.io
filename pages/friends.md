@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Friends
-permalink: /friends/
-
-excerpt: Real and virtual people. All together.
+layout:     page
+title:      Friends
+permalink:  /friends/
+excerpt:    Real and virtual people. All together.
 ---
 
 

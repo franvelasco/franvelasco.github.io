@@ -33,14 +33,14 @@
   --f-body: "Body", serif;
   --f-italic: "Italic", serif;
   /* body */
-  --c-body: #050905;
+  --c-body: black;
   --c-text: white;
   --c-detail: orangered;
   --c-bgfade: #ffffff10;
   --c-catpost: #ffffff35;
   /* background colors */
   --b-gallery: #1f292e;
-  --b-page: #081012;
+  --b-page: white;
   --b-photoessay: #171a1c;
   --b-post: #1a1c1b;
   /* categories */
