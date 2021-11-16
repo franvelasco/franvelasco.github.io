@@ -14,6 +14,10 @@ Always looking for new projects at [Seabell Studio](https://seabell.studio){:tar
 
 ---
 
+Listening to [The Swellers](https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw){:target="blank"} and loving every minute.
+
+---
+
 Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam.
 
 ---
