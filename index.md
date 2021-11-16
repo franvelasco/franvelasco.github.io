@@ -19,3 +19,12 @@ Hello, my name is *Fran Velasco*. I live in Madrid with my wife *Cecilia*, my ki
 ![This is Fran Velasco. April 2020](../assets/imgs/fran-profile.jpg)
 
 <div>
+
+<h1>Latest Post</h1>
+{% for post in site.posts limit:1 %}
+... Show the first post all big ...
+{% endfor %}
+<h1>Recent Posts</h1>
+{% for post in site.posts offset:1 limit:2 %}
+... Show the next two posts ...
+{% endfor %}
