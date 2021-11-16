@@ -33,7 +33,7 @@
   --f-body: "Body", serif;
   --f-italic: "Italic", serif;
   /* body */
-  --c-body: black;
+  --c-body: white;
   --c-text: white;
   --c-detail: orangered;
   --c-bgfade: #ffffff10;
@@ -59,7 +59,7 @@
 }
 
 body {
-  background: var(--c-bg);
+  background: var(--c-body);
   color: var(--c-text);
   height: 100%;
   line-height: 1.4;
@@ -147,6 +147,16 @@ blockquote h1 {
   line-height: 1.2;
   margin-left: -100px;
   max-width: 600px;
+}
+
+blockquote {
+  margin: 0;
+}
+
+blockquote p {
+margin-left: 0px;
+opacity: .5;
+font-family: var(--f-italic);
 }
 
 .lang-selector {
@@ -593,6 +603,7 @@ img .img100 {
 
 .gallery-post, .gallery-page p img {
  width: 100% !important;
+ display: flex;
 }
 .gallery-post p {
  padding: 50px 0;

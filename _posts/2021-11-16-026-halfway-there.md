@@ -4,7 +4,7 @@ number:		26
 title:  	Halfway there
 fact:   	2008-11-30
 date:   	2021-11-16
-permalink:	/post/halfway-there
+permalink:	/post/halfway-there/
 categories: Photography
 
 excerpt: 	We tried, I promise
@@ -17,22 +17,22 @@ I promise we tried, but it was not possible. The getaway with Nele to see the su
 
 I really can't complain, it wasn't what I had in mind but better to enjoy the situation than coming back home sad and empty-handed.
 
+{% include spanish-link.html %}
+
 <div class="gallery-{{ page.layout }}" markdown="1">
 
-[![]({% include hosted-img.html %}01.jpg)]({% include hosted-img.html %}01.jpg){:.vertical}
-[![]({% include hosted-img.html %}02.jpg)]({% include hosted-img.html %}02.jpg){:.vertical}
+[![]({% include hosted-img.html %}01.jpg)]({% include hosted-img.html %}01.jpg)
+[![]({% include hosted-img.html %}02.jpg)]({% include hosted-img.html %}02.jpg)
 [![]({% include hosted-img.html %}03.jpg)]({% include hosted-img.html %}03.jpg)
 [![]({% include hosted-img.html %}04.jpg)]({% include hosted-img.html %}04.jpg)
 [![]({% include hosted-img.html %}05.jpg)]({% include hosted-img.html %}05.jpg)
-[![]({% include hosted-img.html %}05.jpg)]({% include hosted-img.html %}06.jpg){:.vertical}
-[![]({% include hosted-img.html %}05.jpg)]({% include hosted-img.html %}07.jpg){:.vertical}
+[![]({% include hosted-img.html %}06.jpg)]({% include hosted-img.html %}06.jpg)
+[![]({% include hosted-img.html %}07.jpg)]({% include hosted-img.html %}07.jpg)
 
 </div>
 
-<span class="spanish">
+{% include spanish-header.html %}
 
-Prometo que lo intentamos, pero no pudo ser. La escapada con Nele a ver el atardecer en los Lagos de Covadonga acabó en uno de los muchos miradores en los que se puede aparcar. El estado de la carretera y la falta de cadenas para las ruedas nos forzó a hacernos a un lado y disfrutar de las vistas que ofrece Asturias.
+> Prometo que lo intentamos, pero no pudo ser. La escapada con Nele a ver el atardecer en los Lagos de Covadonga acabó en uno de los muchos miradores en los que se puede aparcar. El estado de la carretera y la falta de cadenas para las ruedas nos forzó a hacernos a un lado y disfrutar de las vistas que ofrece Asturias.
 
-No puedo quejarme en realidad, no era lo esperado pero mejor disfrutar de la situación que volver a casa triste y con las manos vacías.
-
-</span>
+> No puedo quejarme en realidad, no era lo esperado pero mejor disfrutar de la situación que volver a casa triste y con las manos vacías.
