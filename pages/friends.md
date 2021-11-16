@@ -7,7 +7,7 @@ excerpt: Real and virtual people. All together.
 ---
 
 
-# In no particular order and with no reason at all, I simply like to read or see what they're doing and they all inspire me in some way. The resurgence of the personal site starts with microinteractions! If you have a few minutes, take a look at:
+# In no particular order and with no reason at all, I simply like to read or see what they're doing and they all inspire me in some way. The resurgence of the personal site starts with microinteractions! If you have a couple minutes, take a look at:
 
 <ul class="category">
 {% for friend in site.data.friends %}
