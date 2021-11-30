@@ -1,5 +1,5 @@
-number,date,name,website,description
-1,2021-11-02,Tresspasser,trespasser.co,Independent book publisher
-2,2021-11-03,Counterprint,www.counter-print.co.uk,Publisher
-3,2021-11-04,Mark Mahaney,markmahaney.com,Photographer
-4,2021-11-30,Thomas Pesquet,blogs.esa.int/exploration/category/astronauts/thomas-pesquet,Astronaut
+number,	date,			name,					description,					website
+1,		2021-11-02,		Tresspasser,			Independent book publisher,		trespasser.co
+2,		2021-11-03,		Counterprint,			Publisher,						www.counter-print.co.uk
+3,		2021-11-04,		Mark Mahaney,			Photographer,					markmahaney.com
+4,		2021-11-30,		Thomas Pesquet,			Astronaut,						blogs.esa.int/exploration/category/astronauts/thomas-pesquet
