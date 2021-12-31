@@ -19,21 +19,3 @@ excerpt: Improving my writing skills, word by word.
   </li>
 {% endfor %}
 </ul>
-
----
-
-<ul>
-{% for category in site.categories reversed %}
-  <li><h1><a class="journal {{ category | first }}" name="{{ category | first }}" id="#{{ page.categories }}">● </a>{{ category | first }}</h1>
-    <ul class="category">
-    {% for post in category.last %}
-      <a href="{{ post.url }}"><li>
-        <span class="number">No. {{ post.number }}</span>
-        <span class="title">{{ post.title }}</span>
-        <span class="date">{{ post.date | date_to_string }}</span>
-      </li></a>
-    {% endfor %}
-    </ul><br><br><br><br><br>
-  </li>
-{% endfor %}
-</ul>
