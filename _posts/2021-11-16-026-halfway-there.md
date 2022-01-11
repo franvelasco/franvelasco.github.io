@@ -4,7 +4,7 @@ number:		26
 title:  	Halfway there
 fact:   	2008-11-30
 date:   	2021-11-16
-permalink:	/post/halfway-there/
+permalink:	/post/halfway-there
 categories: Photography
 
 excerpt: 	We tried, I promise
