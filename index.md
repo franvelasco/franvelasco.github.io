@@ -8,7 +8,14 @@ info-date:
 info-place: 
 ---
 
-Hello, my name is *Fran Velasco*. I live in Madrid with my wife *Cecilia*, my kids *Max* & *Oli*, and a cat named *Petra*. I like to travel as much as possible, I design things in *Seabell Studio*, I take my *camera* everywhere, I play *bass guitar*, I love/hate social networks, I collect *Marvel* books and *Hot Wheels*, and I'd eat *pizza* every day.{:big-text}
+<span class="big-text">
+Hello, my name is *Fran Velasco*. I live in Madrid with my wife *Cecilia*, my kids *Max* & *Oli*, and a cat named *Petra*. I like to travel as much as possible, I design things in *Seabell Studio*, I take my *camera* everywhere, I play *bass guitar*, I love/hate social networks, I collect *Marvel* books and *Hot Wheels*, and I'd eat *pizza* every day.
+</span>
 
+<br>
+
+<div class="gallery-post" markdown="1">
 
 ![This is Fran Velasco. April 2020](../assets/imgs/fran-profile.jpg)
+
+<div>
