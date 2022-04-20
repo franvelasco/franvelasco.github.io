@@ -123,7 +123,7 @@ This is a list of things I'd love to accomplish in this lifetime. The only rule 
 
 - ● Having a son
 - ○ Design something for Nike
-- ○ Land a 5000€+ commission
+- ● Land a 5000€+ commission
 - ○ Land a 10000€+ commission
 - ○ Having one more son
 - ○ Visit Chicago  
@@ -137,7 +137,7 @@ This is a list of things I'd love to accomplish in this lifetime. The only rule 
 - ○ Travel Canadian National Parks
 - ○ Travel the Big Sur driving a muscle car
 - ○ Release the Orpin Type Foundry
-- ○ Sell a font for 10€+
+- ● Sell a font for 10€+
 - ○ Publish a book (of any kind)
 - ○ Release music on vynil
 
