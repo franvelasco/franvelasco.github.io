@@ -18,7 +18,7 @@ excerpt: I'm everywhere.
 
 <br><br>
 
-# Or as my design studio called Seabell Studio:
+# Or as my studio called Seabell Studio:
 
 <ul class="category">
   <a href="mailto:fran@seabell.studio" target="_blank"><li>Email<span class="info">fran(at)seabell.studio</span></li></a>
