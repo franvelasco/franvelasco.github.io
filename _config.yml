@@ -11,8 +11,6 @@ baseurl: ""
 
 url: "https://franvelas.co"
 
-twitter_username: efless
-
 github_username:  franvelasco
 
 theme: minima
