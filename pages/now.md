@@ -10,40 +10,28 @@ excerpt:	This is my life right now.
 
 <br>
 
-Always looking for new projects at [Seabell Studio](https://seabell.studio){:target="blank"}. Hey, [I'm available to hire!](mailto:fran@seabell.studio){:target="blank"}
+Crafting new fonts to finish the 22/22 project. I'm three years late to the party, so it's about time!
 
 ---
 
-Listening to [The Swellers](https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw){:target="blank"} and loving every minute.
+Listening a lot of 90s punk rock again, specially Bad Religion, NOFX, Pennywise, Green Day and The Offspring.
 
 ---
 
-Planning a short trip to *anywhere*, really. Maybe London, or Amsterdam.
+Looking forward to our weekend to Barcelona to see Pennywise, Bad Religion and Propagandhi live.
 
 ---
 
-Trying to figure out a new hobby.
+Playing guitar and bass as crazy, and writing new songs. It's been a decade since I wrote any music and it feels great!
 
 ---
 
-Culling a few thousand photographs from the last 12+ months.
+Just started reading The Martian, by Andy Weir. I loved Project Hail Mary!
 
 ---
 
-Adjusting to the new schedule now that *Max* is at the kindergarten while working and taking care of *Oli* at home.
-
----
-
-Reading *Axhalation* by Ted Chiang, and *Akira* by Katsuhiro Otomo.
-
----
-
-Looking for a good series to binge.
-
----
-
-Playing *nothing* but still missing *Metroid: Samus Returns* on Nintendo 3DS.
+Designing the new site for [Seabell Type](https://www.seabelltype.com/){:target="_blank"}. 
 
 <br>
 
-###### Last update: 20th of September, 2021.
+###### Last update: 25th of January, 2025.

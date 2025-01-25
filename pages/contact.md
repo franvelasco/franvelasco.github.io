@@ -18,13 +18,12 @@ excerpt: I'm everywhere.
 
 <br><br>
 
-# Or as my studio called Seabell Studio:
+# Or as my studio called Seabell Type:
 
 <ul class="category">
-  <a href="mailto:fran@seabell.studio" target="_blank"><li>Email<span class="info">fran(at)seabell.studio</span></li></a>
-  <a href="https://seabell.studio" target="_blank"><li>Website<span class="info">seabell.studio</span></li></a>
+  <a href="mailto:hi@seabelltype.com" target="_blank"><li>Email<span class="info">hi(at)seabelltype.com</span></li></a>
+  <a href="https://seabelltype.com" target="_blank"><li>Website<span class="info">seabelltype.com</span></li></a>
   <a href="https://behance.net/seabellstudio" target="_blank"><li>Behance<span class="info">@seabellstudio</span></li></a>
-  <a href="https://instagram.com/seabellstudio" target="_blank"><li>Instagram<span class="info">@seabellstudio</span></li></a>
+  <a href="https://instagram.com/seabelltype" target="_blank"><li>Instagram<span class="info">@seabellstudio</span></li></a>
   <a href="https://dribbble.com/seabellstudio" target="_blank"><li>Dribbble<span class="info">@seabellstudio</span></li></a>
-  <a href="https://twitter.com/seabellstudio" target="_blank"><li>Twitter<span class="info">@seabellstudio</span></li></a>
 </ul>

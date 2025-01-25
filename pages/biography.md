@@ -60,8 +60,11 @@ We've been visiting new and exiting cities around the world as often as possible
 
 To this day, I have visited this places:
 
+#### 2024
+Córdoba
+
 #### 2023
-Disneyland, Paris, London
+Disneyland, Paris, London, Italy
 
 #### 2022
 Sevilla
